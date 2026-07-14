@@ -8,6 +8,6 @@ Copy [00-system/templates/project/](../00-system/templates/project/) into this f
 ## Index
 | ID | Title | Status |
 |---|---|---|
-| [001](001-from-wildfires-to-regeneration/README.md) | From Wildfires to Regeneration | capture |
+| [001](001-from-wildfires-to-regeneration/README.md) | From Wildfires to Regeneration | published |
 
 Update this index when a project is created or its status changes.

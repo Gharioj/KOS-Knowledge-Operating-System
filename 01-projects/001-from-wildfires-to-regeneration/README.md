@@ -2,11 +2,11 @@
 title: From Wildfires to Regeneration
 id: 001-from-wildfires-to-regeneration
 type: project
-status: capture
+status: published
 owner:
 created: 2026-07-14
 updated: 2026-07-14
-version: 0.1
+version: 1.0
 tags: []
 source:
 ---

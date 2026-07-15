@@ -7,7 +7,7 @@ Finished output for Project 001, From Wildfires to Regeneration. Filenames are k
 | From Wildfires to Regeneration — Executive Board Paper | `Executive_Board_Paper_From_Wildfires_to_Regeneration_EN__v1.0.pdf` | Published | EN | 1.0 |
 | Dagli Incendi alla Rigenerazione — Founding Manuscript | `Founding Manuscript (Dagli Incendi alla Rigenerazione_IT) archived.pdf` | Founding Manuscript | IT | 1.0 |
 | Framework Capability Register | `Framework Capability_Register EN v1,0.pdf` | Published | EN | 1.0 |
-| Patron Invitation | `Patron_Invitation_EN_v1.0.pdf` | Published | EN | 1.0 |
+| Patron Invitation | `Patron Invitation – EN – Version 1.0 (Final).docx` | Published | EN | 1.0 |
 | Strategic Partner Proposal — Marcegaglia | `Strategic_Partner_Proposal_Marcegaglia_v1.0.pdf` | Published | EN | 1.0 |
 
 ## Founding Manuscript

@@ -1,14 +1,14 @@
 # Publication — Version 1.0
 
-Finished output for Project 001, From Wildfires to Regeneration. Filenames are kept exactly as delivered; naming will be standardised across the repository in a later pass, not for this set alone.
+Finished output for Project 001, From Wildfires to Regeneration. Authoritative masters are Microsoft Word (.docx). Filenames are kept exactly as delivered; naming will be standardised across the repository in a later pass, not for this set alone.
 
 | Title | File | Status | Language | Version |
 |---|---|---|---|---|
-| From Wildfires to Regeneration — Executive Board Paper | `Executive_Board_Paper_From_Wildfires_to_Regeneration_EN__v1.0.pdf` | Published | EN | 1.0 |
-| Dagli Incendi alla Rigenerazione — Founding Manuscript | `Founding Manuscript (Dagli Incendi alla Rigenerazione_IT) archived.pdf` | Founding Manuscript | IT | 1.0 |
-| Framework Capability Register | `Framework Capability_Register EN v1,0.pdf` | Published | EN | 1.0 |
+| From Wildfires to Regeneration — Executive Board Paper | `From_Wildfires_to_Regeneration___Executive_Board_Paper_v1.0.docx` | Published | EN | 1.0 |
+| Dagli Incendi alla Rigenerazione — Founding Manuscript | `DAGLI INCENDI ALLA RIGENERAZIONE  070726.docx` | Founding Manuscript | IT | 1.0 |
+| Framework Capability Register | `Framework_Capability_Register_v1.0.docx` | Published | EN | 1.0 |
 | Patron Invitation | `Patron Invitation – EN – Version 1.0 (Final).docx` | Published | EN | 1.0 |
-| Strategic Partner Proposal — Marcegaglia | `Strategic_Partner_Proposal_Marcegaglia_v1.0.pdf` | Published | EN | 1.0 |
+| Strategic Partner Proposal — Marcegaglia | `Strategic_Partner_Proposal_Marcegaglia_v1.0.docx` | Published | EN | 1.0 |
 
 ## Founding Manuscript
 

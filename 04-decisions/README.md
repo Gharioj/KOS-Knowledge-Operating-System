@@ -7,4 +7,4 @@ Use [00-system/templates/decision.md](../00-system/templates/decision.md), named
 ## Index
 | ID | Title | Status | Date |
 |---|---|---|---|
-| — | — | — | — |
+| [001](001-two-repository-publication-strategy.md) | Two-Repository Publication Strategy | decided | 2026-07-16 |

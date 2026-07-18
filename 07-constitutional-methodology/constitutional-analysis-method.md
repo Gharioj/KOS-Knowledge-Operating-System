@@ -49,6 +49,7 @@ Every Constitutional Question carries exactly one of the following states at any
 - [Independent Labels — Constitutional Participant Analysis](independent-labels.md)
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
 - [Producers — Constitutional Participant Analysis](producers.md)
+- [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
 - [Constitutional Research Roadmap](constitutional-research-roadmap.md) — sequences future participant analyses against this bank
 - [Constitutional Programme Dashboard](constitutional-programme-dashboard.md) — summarises this bank's current state
 
@@ -80,7 +81,8 @@ A permanent register of every Constitutional Question raised across participant 
 **Evidence:**
 - [Artist Managers](managers.md#constitutional-questions) — Scooter Braun / Ithaca Holdings, acquiring a catalogue outside any managerial relationship with its creator.
 - [Producers](producers.md) — Dr. Dre / Beats Electronics, production capacity converted into owned capital built from his own work, rather than acquired from another's relationship.
-**State:** Accumulating Evidence — 2 participant groups, via two differently-shaped instances.
+- [Publishers & Catalogue Funds](publishers.md#constitutional-questions) — Hipgnosis Songs Fund, the first participant type whose core function is capital/ownership itself, not a secondary development of another function; and BMG Rights Management, which runs an administration-only model and a capital-acquisition model as separate offers within one institution, complicating rather than confirming a clean split.
+**State:** Accumulating Evidence — 3 participant groups (meets the resolution criteria's count and cross-type requirements for the first time), but not resolved: BMG's coexistence of both models is a complicating instance, and the claim has not been sharpened to one precise, falsifiable statement all three evidence entries satisfy. Whether this is ready for review is held for human judgment.
 
 ### CQ-5: Externality value beyond an institution's own participants
 
@@ -99,6 +101,12 @@ A permanent register of every Constitutional Question raised across participant 
 **Question:** Does an institution built to carry a specific, namable creative method (Max Martin's Cheiron → Maratone → MXM lineage) belong to the same pattern as an institution built to share general administrative infrastructure across separate creative units (Secretly Group, Red Light Management)?
 **Evidence:** [Producers](producers.md#constitutional-questions) — Max Martin's Cheiron → Maratone → MXM lineage.
 **State:** Open — 1 participant group under this specific framing. Related to CQ-2 and CQ-6: together, three participant analyses have now raised adjacent-but-not-identical versions of a shared-infrastructure question, without yet establishing whether they are one pattern or several — that determination, if it happens, would itself be a Merged event, not an automatic one.
+
+### CQ-8: Does capital-native value have different durability than capacity-native value?
+
+**Question:** Hipgnosis Songs Fund acquired catalogues worth over $2bn, then was itself sold and restructured within six years of founding. Does capital-native value creation have a different durability profile than capacity-native value creation, or is this one fund's particular history?
+**Evidence:** [Publishers & Catalogue Funds](publishers.md#constitutional-questions) — Hipgnosis Songs Fund's rise-to-sale timeline, contrasted informally with the longer trajectories of Mute, Red Light Management and Kobalt, none of which show a comparably fast cycle over a comparable period — though this may reflect the underlying assets' different ages rather than any constitutional property of capital versus capacity.
+**State:** Open — 1 participant group.
 
 ## Notes
 

@@ -61,6 +61,7 @@ Martin's case is the clearest positive precedent found across all three analyses
 - [Constitutional Participant Analysis](constitutional-participant-analysis.md)
 - [Independent Labels — Constitutional Participant Analysis](independent-labels.md)
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
+- [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Human Capacities](human-capacities.md)
 - [Constitutional Functions](constitutional-functions.md)

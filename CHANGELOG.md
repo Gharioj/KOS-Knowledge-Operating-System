@@ -1,6 +1,13 @@
 # Changelog
 
-Structural changes to the Knowledge Operating System. Content changes within projects are not logged here.
+Structural changes to the Initiative Launch System. Content changes within projects are not logged here.
+
+## 3.0.0 — 2026-07-18
+Renamed from Knowledge Operating System (KOS) to Initiative Launch System (ILS), reflecting the system's evolution from a general knowledge architecture toward launching and structuring initiatives. See decision [002](04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md).
+
+- All live references to "Knowledge Operating System" / "KOS" updated to "Initiative Launch System" / "ILS" across root standards and system documentation. Historical records — decision [001](04-decisions/001-two-repository-publication-strategy.md) and prior entries below — keep their original wording.
+- New top-level folder `07-constitutional-methodology/` added: evergreen constitutional-methodology material, seeded with a `README.md` and ten skeleton concept documents (content not yet populated).
+- The repository root folder name and GitHub remote name are unchanged; see [NAMING.md](NAMING.md).
 
 ## 2.0.0 — 2026-07-14
 Complete redesign following architectural review.

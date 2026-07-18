@@ -1,6 +1,6 @@
 # Git Workflow — Operating Procedure
 
-Standard procedure for working across repositories and devices in a cloud-first setup. Applies to every repository cloned locally — the Knowledge Operating System repository and any project-specific public repository alike.
+Standard procedure for working across repositories and devices in a cloud-first setup. Applies to every repository cloned locally — the Initiative Launch System repository and any project-specific public repository alike.
 
 This describes *how* work moves between devices via GitHub. For how content itself moves through editorial stages within a repository, see the root [WORKFLOW.md](../WORKFLOW.md) — a different document, a different question.
 

@@ -1,6 +1,8 @@
-# Knowledge Operating System
+# Initiative Launch System
 
-A permanent knowledge architecture — not a project, not a document archive, but the structure from which projects, research, decisions and publications emerge.
+*(Formerly the Knowledge Operating System — renamed 2026-07-18, see [CHANGELOG.md](CHANGELOG.md) and decision [002](04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md).)*
+
+A permanent knowledge architecture — not a project, not a document archive, but the structure from which projects, research, decisions and publications emerge. Its constitutional methodology — how human capacities, functions, institutions, contribution and value are defined and related — is a core, evergreen component alongside the system's other knowledge.
 
 ## The standards
 | File | Answers |
@@ -21,6 +23,7 @@ A permanent knowledge architecture — not a project, not a document archive, bu
 04-decisions/    System-level decision records
 05-assets/       Shared media library
 06-archive/      Retired or superseded material
+07-constitutional-methodology/  Constitutional methodology — human capacities, functions, institutions, contribution, value
 ```
 
 ## Before you create anything

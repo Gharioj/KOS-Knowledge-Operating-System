@@ -82,16 +82,16 @@ A permanent register of every Constitutional Question raised across participant 
 **Evidence:** [Independent Labels](independent-labels.md), [Artist Managers](managers.md), [Producers](producers.md) — noted as a standing limitation in every analysis so far.
 **State:** Accumulating Evidence — 3 participant groups, but of a different kind than the other entries here: a standing methodological condition rather than a candidate substantive principle. Whether it can resolve the same way as the others is itself unclear and is not decided here.
 
-### CQ-4: Administration versus capital/ownership as distinct constitutional categories
+### CQ-4: A function-performing entity is itself a potential capital asset
 
-**Question:** Should the administrative function and a capital/ownership function be treated as two distinct constitutional categories, rather than one?
+**Question (sharpened 2026-07-18, narrowed from the original broader framing "should the administrative function and a capital/ownership function be treated as two distinct constitutional categories?"):** A business or institution that performs a Constitutional Function is, by virtue of performing that function, itself a potential capital asset — transactable as a going concern, bought or sold independent of whether it directly owns the creative IP its function relates to.
 **Evidence:**
-- [Artist Managers](managers.md#constitutional-questions) — Scooter Braun / Ithaca Holdings, acquiring a catalogue outside any managerial relationship with its creator.
-- [Producers](producers.md) — Dr. Dre / Beats Electronics, production capacity converted into owned capital built from his own work, rather than acquired from another's relationship.
-- [Publishers & Catalogue Funds](publishers.md#constitutional-questions) — Hipgnosis Songs Fund, the first participant type whose core function is capital/ownership itself, not a secondary development of another function; and BMG Rights Management, which runs an administration-only model and a capital-acquisition model as separate offers within one institution, complicating rather than confirming a clean split.
-- [Booking Agents & Touring Agencies](booking-agents.md#constitutional-questions) — Wasserman Music's acquisition of Paradigm's North American live-music roster: a pure representation/administration business with no underlying IP, still bought and sold as a capital asset once financial distress forced the sale.
+- [Artist Managers](managers.md#constitutional-questions) — Scooter Braun / Ithaca Holdings acquiring Big Machine, the label — a function-performing business, not just a catalogue in isolation — outside any managerial relationship with its creator.
+- [Publishers & Catalogue Funds](publishers.md#constitutional-questions) — BMG Rights Management acquiring Mute and Sanctuary as going concerns; Hipgnosis Songs Fund itself later acquired by Blackstone.
+- [Booking Agents & Touring Agencies](booking-agents.md#constitutional-questions) — Wasserman Music's acquisition of Paradigm's North American live-music roster: a pure representation/administration business with no underlying IP at all, still bought and sold as a capital asset once financial distress forced the sale — the cleanest instance, since no IP is involved.
 - [Streaming Platforms & DSPs](streaming-platforms.md#constitutional-questions) — Bandcamp, acquired by Epic Games in 2022 and sold to Songtradr eighteen months later: infrastructure ownership itself, not just representation relationships or catalogues, changing hands as a capital transaction, with creator-favourable terms uncertain to survive it.
-**State:** Accumulating Evidence — 5 participant groups (exceeds the resolution criteria's count and cross-type requirements), but not resolved: each new instance has complicated rather than sharpened the claim. The claim has not been reduced to one precise, falsifiable statement all five entries satisfy. Whether this is ready for review is held for human judgment.
+**State:** Accumulating Evidence — 4 participant groups, 4 different participant types, no disconfirming instance found. The claim is now precise and falsifiable, and every remaining evidence entry satisfies it — this appears to meet all four resolution criteria stated [above](#constitutional-principle), but meeting them is not itself resolution: that remains a distinct, dated act for the Owner, not taken here.
+**Note:** The Dr. Dre / Beats Electronics instance, originally logged here, was reclassified to [CQ-11](#cq-11-personal-constitutional-capacity-leveraged-into-a-new-institution) on 2026-07-18: Beats Electronics performs no Constitutional Function this methodology examines, so it is not evidence of a function-performing entity becoming a capital asset — it is evidence of a different mechanism, personal capacity leveraged into an unrelated new venture. The evidence is preserved, not deleted; only its classification changed.
 
 ### CQ-5: Externality value beyond an institution's own participants
 
@@ -131,6 +131,14 @@ A permanent register of every Constitutional Question raised across participant 
 **Evidence:** [Streaming Platforms & DSPs](streaming-platforms.md#constitutional-questions) — Spotify's Discovery Mode, and the Congressional and legal scrutiny it has drawn.
 **State:** Open — 1 participant group. The first question in the bank concerning an automated, rather than human or institutional, exercise of a Constitutional Function.
 
+### CQ-11: Personal Constitutional Capacity Leveraged Into a New Institution
+
+**Question:** When a person's recognised capacity — fame, reputation, skill — is leveraged to found an entirely new institution unrelated to the Constitutional Function that capacity was originally recognised for, and that new institution is later sold, is this the same constitutional pattern as [CQ-4](#cq-4-a-function-performing-entity-is-itself-a-potential-capital-asset) (an existing function-performing entity itself becoming a capital asset), or a distinct one?
+**Evidence:** [Producers](producers.md#constitutional-questions) — Dr. Dre / Beats Electronics. Beats performs none of the Constitutional Functions this methodology examines (it is a consumer hardware company); what was built and later sold for $3bn was a new venture leveraging Dre's production reputation, not Aftermath Entertainment, the entity that actually performed his production function. Reclassified from CQ-4 on 2026-07-18, following the CQ-4 sharpening review — the evidence itself is unchanged, only its classification.
+**State:** Open — 1 participant group.
+
 ## Notes
 
 This bank is updated by each new participant analysis as it is completed, and by any explicit resolution act — evidentiary or by Constitutional Decision. New questions get new entries; existing questions are extended with additional evidence, never merged or resolved from a single addition, including by this document itself, which does not decide whether CQ-2, CQ-6 and CQ-7 are secretly the same question. That judgment, like every state change in this bank, waits for an explicit act, not the passage of time.
+
+On 2026-07-18, CQ-4 was sharpened to a single precise, falsifiable claim, narrowing it to the evidence that genuinely supports it; the one evidence entry that no longer fit (Dr. Dre / Beats Electronics) was reclassified to the new CQ-11, not deleted. This is the first reclassification event in the bank's history — evidence moving between questions, in full view, rather than being quietly dropped or force-fit.

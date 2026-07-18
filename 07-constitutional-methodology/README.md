@@ -18,6 +18,8 @@ source:
 
 Entry point to the constitutional methodology — the evergreen body of thinking that defines how human capacities, functions, institutions, capacity, contribution, value and economics are understood and related within the Initiative Launch System. See decision [002](../04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md).
 
+**Start here:** the [Constitutional Programme Dashboard](constitutional-programme-dashboard.md) is the operational cockpit for this programme — reviewed before any Constitutional Intent begins, per decision [004](../04-decisions/004-constitutional-programme-dashboard-checkpoint.md).
+
 ## Definition
 
 *Placeholder — not yet defined.*
@@ -26,6 +28,7 @@ Entry point to the constitutional methodology — the evergreen body of thinking
 
 ## Relationships
 
+- [Constitutional Programme Dashboard](constitutional-programme-dashboard.md)
 - [Human Capacities](human-capacities.md)
 - [Constitutional Functions](constitutional-functions.md)
 - [Constitutional Institutions](constitutional-institutions.md)

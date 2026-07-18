@@ -50,6 +50,7 @@ Every Constitutional Question carries exactly one of the following states at any
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
 - [Producers — Constitutional Participant Analysis](producers.md)
 - [Constitutional Research Roadmap](constitutional-research-roadmap.md) — sequences future participant analyses against this bank
+- [Constitutional Programme Dashboard](constitutional-programme-dashboard.md) — summarises this bank's current state
 
 ## Constitutional Questions Bank
 

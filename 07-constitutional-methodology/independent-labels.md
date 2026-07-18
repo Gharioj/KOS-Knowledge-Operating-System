@@ -62,6 +62,7 @@ Across all three institutions, the pattern is the same: constitutional value con
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
 - [Producers — Constitutional Participant Analysis](producers.md)
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
+- [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Human Capacities](human-capacities.md)
 - [Constitutional Functions](constitutional-functions.md)

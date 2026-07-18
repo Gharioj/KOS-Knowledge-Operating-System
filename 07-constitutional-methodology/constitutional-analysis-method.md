@@ -50,6 +50,7 @@ Every Constitutional Question carries exactly one of the following states at any
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
 - [Producers — Constitutional Participant Analysis](producers.md)
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
+- [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md)
 - [Constitutional Research Roadmap](constitutional-research-roadmap.md) — sequences future participant analyses against this bank
 - [Constitutional Programme Dashboard](constitutional-programme-dashboard.md) — summarises this bank's current state
 
@@ -60,8 +61,10 @@ A permanent register of every Constitutional Question raised across participant 
 ### CQ-1: Institutional self-correction as Recognised Contribution
 
 **Question:** Is an institution's public self-correction of a past harmful decision its own category of [Recognised Contribution](recognised-contribution.md), distinct from the mere absence of further harm?
-**Evidence:** [Independent Labels](independent-labels.md#constitutional-questions) — One Little Independent's 2020 renaming.
-**State:** Open — 1 participant group.
+**Evidence:**
+- [Independent Labels](independent-labels.md#constitutional-questions) — One Little Independent's 2020 renaming.
+- [Session Musicians & Sidemen](session-musicians.md#constitutional-questions) — the Wrecking Crew and Funk Brothers' recognition, arriving decades later through institutions other than the one that engaged them (documentarians, Halls of Fame, Congress), and Motown's 1971 reversal of its blanket non-crediting policy. A differently-shaped instance: not one institution's discrete self-correction, but a blanket policy's reversal plus third-party mediation. Carol Kaye's 2025 declined Rock Hall induction is logged here too, as a complication: offered recognition is not necessarily accepted recognition.
+**State:** Accumulating Evidence — 2 participant groups, via differently-shaped instances that broaden rather than sharpen the question.
 
 ### CQ-2: Is a founder-partnership, shared-infrastructure structure the right model for POLiPHONiC?
 
@@ -106,6 +109,12 @@ A permanent register of every Constitutional Question raised across participant 
 
 **Question:** Hipgnosis Songs Fund acquired catalogues worth over $2bn, then was itself sold and restructured within six years of founding. Does capital-native value creation have a different durability profile than capacity-native value creation, or is this one fund's particular history?
 **Evidence:** [Publishers & Catalogue Funds](publishers.md#constitutional-questions) — Hipgnosis Songs Fund's rise-to-sale timeline, contrasted informally with the longer trajectories of Mute, Red Light Management and Kobalt, none of which show a comparably fast cycle over a comparable period — though this may reflect the underlying assets' different ages rather than any constitutional property of capital versus capacity.
+**State:** Open — 1 participant group.
+
+### CQ-9: Is Recognised Contribution structurally decoupled from compensation?
+
+**Question:** Can administrative mediation guarantee compensation for a Constitutional Contribution while withholding recognition entirely, as a matter of routine policy rather than individual judgment?
+**Evidence:** [Session Musicians & Sidemen](session-musicians.md#constitutional-questions) — Motown's blanket non-crediting of session musicians (1959–1971) coexisted with standard union-scale payment for the sessions themselves.
 **State:** Open — 1 participant group.
 
 ## Notes

@@ -62,6 +62,7 @@ Kobalt's design — administration explicitly structured so ownership never tran
 - [Independent Labels — Constitutional Participant Analysis](independent-labels.md)
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
 - [Producers — Constitutional Participant Analysis](producers.md)
+- [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Constitutional Research Roadmap](constitutional-research-roadmap.md)
 - [Human Capacities](human-capacities.md)

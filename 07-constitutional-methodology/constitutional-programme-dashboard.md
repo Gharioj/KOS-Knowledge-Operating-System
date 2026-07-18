@@ -6,7 +6,7 @@ status: draft
 owner:
 created: 2026-07-18
 updated: 2026-07-18
-version: 0.2
+version: 0.3
 project:
 tags: []
 source:
@@ -23,7 +23,7 @@ The canonical operational cockpit for the Constitutional Research Programme — 
 | | |
 |---|---|
 | **Research phase** | Phase 1 — Foundational Participant Analysis: establishing the method and the Constitutional Questions Bank. Phase 2 candidates are defined in the [Roadmap](constitutional-research-roadmap.md) but not yet started. |
-| **Constitutional maturity** | Early — 0 of 8 banked questions resolved into a Constitutional Principle; all evidence still accumulating. CQ-4 has, for the first time, met the resolution criteria's count and cross-type thresholds, pending human review. |
+| **Constitutional maturity** | Early — 0 of 9 banked questions resolved into a Constitutional Principle; all evidence still accumulating. CQ-4 has met the resolution criteria's count and cross-type thresholds, pending human review; no other question is close. |
 | **Methodology maturity** | Developing — resolution criteria and the question-state model are defined and instrumented in [Constitutional Analysis Method](constitutional-analysis-method.md), but have never been exercised through a full resolution cycle. |
 | **Workflow maturity** | Partially adopted — the [Constitutional Intent Inbox](../00-system/intents/README.md) is live infrastructure (decision [003](../04-decisions/003-constitutional-intent-inbox.md)); the wider Constitutional Intent model ([AI-WORKFLOW.md](../00-system/AI-WORKFLOW.md) v2) remains an unadopted proposal. No intent to date has actually been routed through the Inbox — every one has been issued directly to Claude Code. |
 
@@ -31,10 +31,10 @@ The canonical operational cockpit for the Constitutional Research Programme — 
 
 | Status | Participant groups |
 |---|---|
-| **Completed** | [Independent Labels](independent-labels.md) · [Artist Managers](managers.md) · [Producers](producers.md) · [Publishers & Catalogue Funds](publishers.md) |
+| **Completed** | [Independent Labels](independent-labels.md) · [Artist Managers](managers.md) · [Producers](producers.md) · [Publishers & Catalogue Funds](publishers.md) · [Session Musicians & Sidemen](session-musicians.md) |
 | **In Progress** | None |
-| **Planned** (recommended order, per [Roadmap](constitutional-research-roadmap.md)) | Session Musicians & Sidemen · Booking Agents & Touring Agencies · Streaming Platforms & DSPs |
-| **Recommended Next** | Session Musicians & Sidemen |
+| **Planned** (recommended order, per [Roadmap](constitutional-research-roadmap.md)) | Booking Agents & Touring Agencies · Streaming Platforms & DSPs |
+| **Recommended Next** | Booking Agents & Touring Agencies |
 
 ## 3. Constitutional Questions
 
@@ -42,10 +42,10 @@ Full register: [Constitutional Analysis Method § Constitutional Questions Bank]
 
 | | |
 |---|---|
-| **Total open** (any non-resolved state) | 8 (CQ-1–CQ-8) |
-| **By state** | Open: 5 (CQ-1, CQ-2, CQ-5, CQ-7, CQ-8) · Accumulating Evidence: 3 (CQ-3, CQ-4, CQ-6) · Merged / Disconfirmed / Resolved / Out of Scope: 0 |
-| **Themes** | 4 — Institutional Scaling & Shared Infrastructure (CQ-2, CQ-6, CQ-7) · Capacity-to-Capital Conversion (CQ-4) · Boundary Conditions of Recognition & Value (CQ-1, CQ-5) · Methodological Sufficiency (CQ-3). CQ-8 (capital-native value durability) is new and not yet assigned to a theme. |
-| **Evidence accumulated** | 13 evidence entries, from 4 completed analyses |
+| **Total open** (any non-resolved state) | 9 (CQ-1–CQ-9) |
+| **By state** | Open: 5 (CQ-2, CQ-5, CQ-7, CQ-8, CQ-9) · Accumulating Evidence: 4 (CQ-1, CQ-3, CQ-4, CQ-6) · Merged / Disconfirmed / Resolved / Out of Scope: 0 |
+| **Themes** | 4 — Institutional Scaling & Shared Infrastructure (CQ-2, CQ-6, CQ-7) · Capacity-to-Capital Conversion (CQ-4) · Boundary Conditions of Recognition & Value (CQ-1, CQ-5, CQ-9) · Methodological Sufficiency (CQ-3). CQ-8 (capital-native value durability) remains unassigned to a theme. |
+| **Evidence accumulated** | 15 evidence entries, from 5 completed analyses |
 | **Approaching maturity** | CQ-4 — now meets the resolution criteria's count and cross-type thresholds (3 groups: Managers, Producers, Publishers), following the Publishers analysis. Not resolved: BMG's evidence complicates rather than confirms a clean split, and the claim has not been sharpened to one falsifiable statement. The Theme A cluster (CQ-2/CQ-6/CQ-7) still has comparable combined evidence but remains unsharpened. |
 
 ## 4. Constitutional Principles
@@ -53,8 +53,8 @@ Full register: [Constitutional Analysis Method § Constitutional Questions Bank]
 | State | Questions |
 |---|---|
 | **Validated** (Resolved into Constitutional Principle) | None |
-| **Emerging** (Accumulating Evidence) | CQ-3, CQ-4, CQ-6 |
-| **Under Observation** (Open, 1 data point) | CQ-1, CQ-2, CQ-5, CQ-7, CQ-8 |
+| **Emerging** (Accumulating Evidence) | CQ-1, CQ-3, CQ-4, CQ-6 |
+| **Under Observation** (Open, 1 data point) | CQ-2, CQ-5, CQ-7, CQ-8, CQ-9 |
 
 ## 5. Constitutional Methodology
 
@@ -62,8 +62,9 @@ Full register: [Constitutional Analysis Method § Constitutional Questions Bank]
 - Discipline established against asserting a category from a single case, after correction on the Independent Labels analysis.
 - [Constitutional Questions Bank](constitutional-analysis-method.md#constitutional-questions-bank) created, consolidating evidence across analyses.
 - Constitutional Resolution state model (seven states) adopted, replacing informal question "retirement."
+- First analysis of an individual, project-by-project participant type (Session Musicians & Sidemen), rather than an institution or its founder — surfacing a decoupling between compensation and recognition not visible in any institution-level analysis.
 
-**Current constitutional learning cycle:** Participant Analysis → raises or evidences Constitutional Questions → banked in Constitutional Analysis Method → Roadmap sequences the next analyses against open questions → repeat. Currently between cycles: Publishers & Catalogue Funds is complete, CQ-4 has reached the resolution criteria's evidentiary count for the first time (pending human review, not yet resolved), and Session Musicians & Sidemen is recommended next.
+**Current constitutional learning cycle:** Participant Analysis → raises or evidences Constitutional Questions → banked in Constitutional Analysis Method → Roadmap sequences the next analyses against open questions → repeat. Currently between cycles: Session Musicians & Sidemen is complete, CQ-1 moved to Accumulating Evidence, one new question (CQ-9) was raised, and Booking Agents & Touring Agencies is recommended next.
 
 ## 6. Constitutional AI Workflow
 
@@ -75,11 +76,11 @@ Full register: [Constitutional Analysis Method § Constitutional Questions Bank]
 
 ## 7. Current Constitutional Intent
 
-**Analyse Publishers & Catalogue Funds** — completing with this commit, including this Dashboard update as part of its completion condition.
+**Analyse Session Musicians & Sidemen** — completing with this commit, including this Dashboard update as part of its completion condition.
 
 ## 8. Next Recommended Constitutional Intent
 
-**Analyse Session Musicians & Sidemen** — per the [Constitutional Research Roadmap](constitutional-research-roadmap.md#recommended-sequence), the second-ranked participant group, testing the individual-capacity axis and CQ-1 directly.
+**Analyse Booking Agents & Touring Agencies** — per the [Constitutional Research Roadmap](constitutional-research-roadmap.md#recommended-sequence), the third-ranked participant group, expected to consolidate the Theme A shared-infrastructure cluster (CQ-2, CQ-6, CQ-7) with a fourth data point.
 
 ## 9. Constitutional Milestones
 
@@ -93,6 +94,7 @@ Full register: [Constitutional Analysis Method § Constitutional Questions Bank]
 | 2026-07-18 | Constitutional Research Roadmap produced |
 | 2026-07-18 | Constitutional Programme Dashboard established (this document) |
 | 2026-07-18 | Fourth participant analysis completed: Publishers & Catalogue Funds; CQ-4 reaches resolution criteria's evidentiary count for the first time (not yet resolved) |
+| 2026-07-18 | Fifth participant analysis completed: Session Musicians & Sidemen — first test of the individual, project-by-project axis; CQ-1 reaches Accumulating Evidence; CQ-9 raised (compensation/recognition decoupling) |
 
 ## Relationships
 
@@ -103,6 +105,7 @@ Full register: [Constitutional Analysis Method § Constitutional Questions Bank]
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
 - [Producers — Constitutional Participant Analysis](producers.md)
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
+- [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md)
 - [AI-WORKFLOW.md](../00-system/AI-WORKFLOW.md)
 - [Constitutional Intent Inbox](../00-system/intents/README.md)
 

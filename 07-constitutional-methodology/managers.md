@@ -62,6 +62,7 @@ The pattern from the labels analysis recurs here: centralising the recurring, le
 - [Independent Labels — Constitutional Participant Analysis](independent-labels.md)
 - [Producers — Constitutional Participant Analysis](producers.md)
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
+- [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Human Capacities](human-capacities.md)
 - [Constitutional Functions](constitutional-functions.md)

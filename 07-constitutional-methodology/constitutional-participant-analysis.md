@@ -30,5 +30,6 @@ source:
 ## Examples
 
 - [Independent Labels — Constitutional Participant Analysis](independent-labels.md) — applies this method to Mute Records, One Little Independent Records and Secretly Group, informing POLiPHONiC.
+- [Artist Managers — Constitutional Participant Analysis](managers.md) — applies this method to Peter Grant, Coran Capshaw and Scooter Braun, informing POLiPHONiC.
 
 ## Notes

@@ -59,6 +59,7 @@ Across all three institutions, the pattern is the same: constitutional value con
 ## Relationships
 
 - [Constitutional Participant Analysis](constitutional-participant-analysis.md)
+- [Artist Managers — Constitutional Participant Analysis](managers.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Human Capacities](human-capacities.md)
 - [Constitutional Functions](constitutional-functions.md)

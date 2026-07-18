@@ -6,7 +6,7 @@ status: draft
 owner:
 created: 2026-07-18
 updated: 2026-07-18
-version: 0.2
+version: 0.3
 project:
 tags: []
 source:
@@ -38,7 +38,7 @@ Once a Human Capacity is recognised as Constitutional Capacity, it becomes eligi
 
 - A demo from an unsigned artist carries real human capacity, but becomes constitutional capacity only once an A&R function recognises it.
 - An engineer's mixing ability is recognised capacity within the institution that employs them, but may go unrecognised elsewhere until credited or referenced independently.
-- A session musician's or uncredited co-writer's capacity is often exercised without the recognition step being granted at all — the clearest case of the gap this document describes.
+- A session musician's or uncredited co-writer's capacity is often exercised without the recognition step being granted at all — the clearest case of the gap this document describes, now directly evidenced by [Session Musicians & Sidemen](session-musicians.md): the Wrecking Crew and the Funk Brothers were, for decades, excluded from recognition by blanket institutional policy rather than any individual decision, then recognised only much later, and largely through institutions other than the ones that had engaged them.
 
 ## Relationship to Technology
 
@@ -46,4 +46,4 @@ Technology changes who or what performs the recognition step — algorithmic dis
 
 ## Notes
 
-The gap between Human Capacity and Constitutional Capacity is the primary site of fairness questions in this methodology — see [Constitutional Participant Analysis](constitutional-participant-analysis.md) when that document is populated for how recognition is assessed across participants.
+The gap between Human Capacity and Constitutional Capacity is the primary site of fairness questions in this methodology — see [Constitutional Participant Analysis](constitutional-participant-analysis.md), now evidenced across seven completed Research Phase 1 analyses, for how recognition is assessed across participants, and the [Constitutional Questions Bank](constitutional-analysis-method.md#constitutional-questions-bank) (particularly CQ-1 and CQ-9) for what remains open about it.

@@ -6,7 +6,7 @@ status: draft
 owner:
 created: 2026-07-18
 updated: 2026-07-18
-version: 0.2
+version: 0.3
 project:
 tags: []
 source:
@@ -25,6 +25,8 @@ A function has no standing of its own. It exists only as long as it channels a r
 ## Why Constitutional Functions Are the Link Between Capacity and Institution
 
 Capacities are individual and particular — this person's ear, that person's negotiating skill. Institutions are collective and durable — a company, a label, a partnership that outlasts any one person. Between the two sits the function: the abstraction that lets a particular capacity be recognised as fulfilling a general, recurring need, so that it can be organised, staffed, trained for, or replaced without the underlying need going unmet. Without functions, institutions would have no way to organise capacity beyond individual relationships; without capacities, functions would have nothing to organise.
+
+A function does not have to already exist to be exercised. [Booking Agents & Touring Agencies](booking-agents.md) evidences the case this document had not previously considered: before Frank Barsalona built Premier Talent Agency, no function organised rock acts into sustained national tours — bookings were one-off, package-tour slots. Barsalona did not fill an existing role; he built the structure that made the function possible at all. Creating a function this way is itself among the highest-value acts a Constitutional Function's history can contain.
 
 ## Relationship to Human Capacities
 
@@ -45,6 +47,8 @@ Each names a recurring pattern of demand, independent of who currently performs 
 ## Relationship to Technology
 
 Technology can absorb, reshape or accelerate how a function is performed — automating routine parts of A&R screening, royalty calculation or audience analysis — without eliminating the human capacity the function ultimately depends on. Technology changes how much capacity a function requires and who is positioned to supply it; it does not remove the underlying need that gives the function its constitutional standing.
+
+[Streaming Platforms & DSPs](streaming-platforms.md) raises a harder case than routine automation. Spotify's Discovery Mode converts the promotion function into an algorithmic trade — reduced royalty rate for algorithmic playlist boost — executed with no human decision-maker at the point of each instance. The comparison to payola that lawmakers and litigants draw is apt precisely because payola required an accountable human choice; the automated version removes that choice while keeping the function's outward shape and name. Whether this changes the function's constitutional standing, or is simply this section's pattern continuing at greater scale, is not yet settled — banked as an open question, [CQ-10](constitutional-analysis-method.md#cq-10-does-automating-a-constitutional-function-preserve-its-constitutional-standing-or-hollow-it-out-while-keeping-its-name).
 
 ## Notes
 

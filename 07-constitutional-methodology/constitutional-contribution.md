@@ -6,7 +6,7 @@ status: draft
 owner:
 created: 2026-07-18
 updated: 2026-07-18
-version: 0.2
+version: 0.3
 project:
 tags: []
 source:
@@ -34,6 +34,8 @@ Contribution is [Constitutional Capacity](constitutional-capacity.md) exercised 
 
 [Recognised Contribution](recognised-contribution.md) is what a Constitutional Contribution becomes once the system records, credits or accounts for it. The two are routinely conflated because most institutions only track contribution once it is recognised — but the constitutional order treats the exercise of capacity as real the moment it happens, whether or not a record is ever produced for it.
 
+Research Phase 1 sharpened this further: recognition and compensation are not the same thing, and administrative mediation can guarantee one while withholding the other entirely. Motown paid its session musicians under standard union scale while crediting none of them for over a decade ([Session Musicians & Sidemen](session-musicians.md); banked as [CQ-9](constitutional-analysis-method.md#cq-9-is-recognised-contribution-structurally-decoupled-from-compensation)) — contribution was compensated as a matter of routine administration, while recognition required a separate, and in that case decades-delayed, process.
+
 ## Examples from the Creative Ecosystem
 
 - A producer's mix is a contribution the moment it is completed and delivered, regardless of whether the eventual credits list them.
@@ -46,4 +48,4 @@ Technology can make contribution more visible and traceable — session logs, ti
 
 ## Notes
 
-This distinction matters most where labour goes uncredited or undercompensated — see [Recognised Contribution](recognised-contribution.md) when populated for how the recognition step is actually performed and where it tends to fail.
+This distinction matters most where labour goes uncredited or undercompensated — see [Recognised Contribution](recognised-contribution.md) for how the recognition step is actually performed and where it tends to fail.

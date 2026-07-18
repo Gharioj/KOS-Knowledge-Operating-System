@@ -6,7 +6,7 @@ status: draft
 owner:
 created: 2026-07-18
 updated: 2026-07-18
-version: 0.2
+version: 0.3
 project:
 tags: []
 source:
@@ -45,6 +45,8 @@ In each case, the institutional role is simply a name given to a recurring patte
 ## Relationship to Technology
 
 Technology extends the reach of human capacity and can substitute for some of its routine components — automated mastering, algorithmic curation, generative drafting. It changes which capacities are scarce, in demand, or economically visible. It does not change the constitutional principle: even highly automated tools trace back to human capacity — the capacity that built, trained, directed, or judged the output as fit for purpose. Technology is never itself a source of constitutional standing.
+
+Research Phase 1's [Streaming Platforms & DSPs](streaming-platforms.md) analysis gives this principle its sharpest evidenced form: human capacity is not absent from an automated system, only displaced. It is exercised once, by the people who design an algorithm or payout policy, then withdrawn from each individual instance the system executes afterward. A stream a recommendation algorithm surfaces still traces back to a human decision — made in advance and embedded in a rule, not exercised again each time the rule runs.
 
 ## Relationship to Constitutional Capacity
 

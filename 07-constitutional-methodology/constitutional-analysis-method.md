@@ -51,6 +51,7 @@ Every Constitutional Question carries exactly one of the following states at any
 - [Producers — Constitutional Participant Analysis](producers.md)
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
 - [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md)
+- [Booking Agents & Touring Agencies — Constitutional Participant Analysis](booking-agents.md)
 - [Constitutional Research Roadmap](constitutional-research-roadmap.md) — sequences future participant analyses against this bank
 - [Constitutional Programme Dashboard](constitutional-programme-dashboard.md) — summarises this bank's current state
 
@@ -69,8 +70,10 @@ A permanent register of every Constitutional Question raised across participant 
 ### CQ-2: Is a founder-partnership, shared-infrastructure structure the right model for POLiPHONiC?
 
 **Question:** Raised from Secretly Group's structure specifically — is this the right structural precedent for POLiPHONiC, rather than merely one viable model among several?
-**Evidence:** [Independent Labels](independent-labels.md#constitutional-questions) — Secretly Group.
-**State:** Open — 1 participant group. Related to CQ-6 and CQ-7 (the general pattern this instance belongs to), but distinct: this question is about fitness for POLiPHONiC specifically, not whether the pattern recurs.
+**Evidence:**
+- [Independent Labels](independent-labels.md#constitutional-questions) — Secretly Group.
+- [Booking Agents & Touring Agencies](booking-agents.md#constitutional-questions) — CAA's integrated, cross-divisional music division, a second cross-type instance of a large, shared-infrastructure institution.
+**State:** Accumulating Evidence — 2 participant groups. Related to CQ-6 and CQ-7 (the general pattern this instance belongs to), but distinct: this question is about fitness for POLiPHONiC specifically, not whether the pattern recurs. Together with CQ-6 and CQ-7, the wider Theme A cluster now has four data points across three participant analyses; whether it should be reviewed for a possible Merged event is held for human judgment.
 
 ### CQ-3: Sufficiency of public-reporting-only analysis
 
@@ -85,13 +88,16 @@ A permanent register of every Constitutional Question raised across participant 
 - [Artist Managers](managers.md#constitutional-questions) — Scooter Braun / Ithaca Holdings, acquiring a catalogue outside any managerial relationship with its creator.
 - [Producers](producers.md) — Dr. Dre / Beats Electronics, production capacity converted into owned capital built from his own work, rather than acquired from another's relationship.
 - [Publishers & Catalogue Funds](publishers.md#constitutional-questions) — Hipgnosis Songs Fund, the first participant type whose core function is capital/ownership itself, not a secondary development of another function; and BMG Rights Management, which runs an administration-only model and a capital-acquisition model as separate offers within one institution, complicating rather than confirming a clean split.
-**State:** Accumulating Evidence — 3 participant groups (meets the resolution criteria's count and cross-type requirements for the first time), but not resolved: BMG's coexistence of both models is a complicating instance, and the claim has not been sharpened to one precise, falsifiable statement all three evidence entries satisfy. Whether this is ready for review is held for human judgment.
+- [Booking Agents & Touring Agencies](booking-agents.md#constitutional-questions) — Wasserman Music's acquisition of Paradigm's North American live-music roster: a pure representation/administration business with no underlying IP, still bought and sold as a capital asset once financial distress forced the sale.
+**State:** Accumulating Evidence — 4 participant groups (meets and exceeds the resolution criteria's count and cross-type requirements), but not resolved: each new instance has complicated rather than sharpened the claim — BMG showed both models coexisting in one institution, Wasserman/Paradigm showed a pure administration business itself becoming a capital asset under distress. The claim has not been reduced to one precise, falsifiable statement all four entries satisfy. Whether this is ready for review is held for human judgment.
 
 ### CQ-5: Externality value beyond an institution's own participants
 
 **Question:** Does value that extends past an institution's own participants — such as an effect on industry-wide terms — belong within [Constitutional Value](constitutional-value.md) as currently scoped, or point to a broader category?
-**Evidence:** [Artist Managers](managers.md#constitutional-questions) — Peter Grant's renegotiated terms benefiting artists industry-wide, not only Led Zeppelin.
-**State:** Open — 1 participant group.
+**Evidence:**
+- [Artist Managers](managers.md#constitutional-questions) — Peter Grant's renegotiated terms benefiting artists industry-wide, not only Led Zeppelin.
+- [Booking Agents & Touring Agencies](booking-agents.md#constitutional-questions) — Frank Barsalona's touring-circuit model, credited with improving touring musicians' compensation industry-wide, not only for Premier's own roster.
+**State:** Accumulating Evidence — 2 participant groups, via two different mechanisms reaching a similar effect (renegotiating existing terms versus building new structure).
 
 ### CQ-6: Is manager-scaling-into-company the same pattern as label-scaling-into-group?
 

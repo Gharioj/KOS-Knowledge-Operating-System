@@ -34,5 +34,6 @@ source:
 - [Producers — Constitutional Participant Analysis](producers.md) — applies this method to Rick Rubin, Max Martin and Dr. Dre, informing POLiPHONiC.
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md) — applies this method to Kobalt Music Group, Hipgnosis Songs Fund and BMG Rights Management, informing POLiPHONiC.
 - [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md) — applies this method to the Wrecking Crew, the Funk Brothers and Nathan East, informing POLiPHONiC.
+- [Booking Agents & Touring Agencies — Constitutional Participant Analysis](booking-agents.md) — applies this method to Frank Barsalona / Premier Talent Agency, Creative Artists Agency and Wasserman Music / Paradigm, informing POLiPHONiC.
 
 ## Notes

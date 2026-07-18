@@ -75,6 +75,7 @@ The clearest lesson across all three cases: attribution infrastructure should be
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
 - [Producers — Constitutional Participant Analysis](producers.md)
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
+- [Booking Agents & Touring Agencies — Constitutional Participant Analysis](booking-agents.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Constitutional Research Roadmap](constitutional-research-roadmap.md)
 - [Human Capacities](human-capacities.md)

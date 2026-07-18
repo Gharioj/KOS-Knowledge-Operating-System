@@ -52,6 +52,7 @@ Every Constitutional Question carries exactly one of the following states at any
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
 - [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md)
 - [Booking Agents & Touring Agencies — Constitutional Participant Analysis](booking-agents.md)
+- [Streaming Platforms & DSPs — Constitutional Participant Analysis](streaming-platforms.md)
 - [Constitutional Research Roadmap](constitutional-research-roadmap.md) — sequences future participant analyses against this bank
 - [Constitutional Programme Dashboard](constitutional-programme-dashboard.md) — summarises this bank's current state
 
@@ -89,7 +90,8 @@ A permanent register of every Constitutional Question raised across participant 
 - [Producers](producers.md) — Dr. Dre / Beats Electronics, production capacity converted into owned capital built from his own work, rather than acquired from another's relationship.
 - [Publishers & Catalogue Funds](publishers.md#constitutional-questions) — Hipgnosis Songs Fund, the first participant type whose core function is capital/ownership itself, not a secondary development of another function; and BMG Rights Management, which runs an administration-only model and a capital-acquisition model as separate offers within one institution, complicating rather than confirming a clean split.
 - [Booking Agents & Touring Agencies](booking-agents.md#constitutional-questions) — Wasserman Music's acquisition of Paradigm's North American live-music roster: a pure representation/administration business with no underlying IP, still bought and sold as a capital asset once financial distress forced the sale.
-**State:** Accumulating Evidence — 4 participant groups (meets and exceeds the resolution criteria's count and cross-type requirements), but not resolved: each new instance has complicated rather than sharpened the claim — BMG showed both models coexisting in one institution, Wasserman/Paradigm showed a pure administration business itself becoming a capital asset under distress. The claim has not been reduced to one precise, falsifiable statement all four entries satisfy. Whether this is ready for review is held for human judgment.
+- [Streaming Platforms & DSPs](streaming-platforms.md#constitutional-questions) — Bandcamp, acquired by Epic Games in 2022 and sold to Songtradr eighteen months later: infrastructure ownership itself, not just representation relationships or catalogues, changing hands as a capital transaction, with creator-favourable terms uncertain to survive it.
+**State:** Accumulating Evidence — 5 participant groups (exceeds the resolution criteria's count and cross-type requirements), but not resolved: each new instance has complicated rather than sharpened the claim. The claim has not been reduced to one precise, falsifiable statement all five entries satisfy. Whether this is ready for review is held for human judgment.
 
 ### CQ-5: Externality value beyond an institution's own participants
 
@@ -122,6 +124,12 @@ A permanent register of every Constitutional Question raised across participant 
 **Question:** Can administrative mediation guarantee compensation for a Constitutional Contribution while withholding recognition entirely, as a matter of routine policy rather than individual judgment?
 **Evidence:** [Session Musicians & Sidemen](session-musicians.md#constitutional-questions) — Motown's blanket non-crediting of session musicians (1959–1971) coexisted with standard union-scale payment for the sessions themselves.
 **State:** Open — 1 participant group.
+
+### CQ-10: Does automating a Constitutional Function preserve its constitutional standing, or hollow it out while keeping its name?
+
+**Question:** Spotify's Discovery Mode converts the promotion function into an algorithmic trade — reduced royalty rate for algorithmic playlist boost — executed without a human decision-maker at the point of each instance. The comparison lawmakers and litigants draw to payola is apt precisely because payola was a human being paid to make a specific choice; the automated version removes that accountable human judgment while preserving the function's outward shape and name. Does this change the function's constitutional status?
+**Evidence:** [Streaming Platforms & DSPs](streaming-platforms.md#constitutional-questions) — Spotify's Discovery Mode, and the Congressional and legal scrutiny it has drawn.
+**State:** Open — 1 participant group. The first question in the bank concerning an automated, rather than human or institutional, exercise of a Constitutional Function.
 
 ## Notes
 

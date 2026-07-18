@@ -35,5 +35,6 @@ source:
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md) — applies this method to Kobalt Music Group, Hipgnosis Songs Fund and BMG Rights Management, informing POLiPHONiC.
 - [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md) — applies this method to the Wrecking Crew, the Funk Brothers and Nathan East, informing POLiPHONiC.
 - [Booking Agents & Touring Agencies — Constitutional Participant Analysis](booking-agents.md) — applies this method to Frank Barsalona / Premier Talent Agency, Creative Artists Agency and Wasserman Music / Paradigm, informing POLiPHONiC.
+- [Streaming Platforms & DSPs — Constitutional Participant Analysis](streaming-platforms.md) — applies this method to Spotify, Bandcamp and SoundCloud, informing POLiPHONiC.
 
 ## Notes

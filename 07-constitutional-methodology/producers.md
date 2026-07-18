@@ -64,6 +64,7 @@ Martin's case is the clearest positive precedent found across all three analyses
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
 - [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md)
 - [Booking Agents & Touring Agencies — Constitutional Participant Analysis](booking-agents.md)
+- [Streaming Platforms & DSPs — Constitutional Participant Analysis](streaming-platforms.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Human Capacities](human-capacities.md)
 - [Constitutional Functions](constitutional-functions.md)

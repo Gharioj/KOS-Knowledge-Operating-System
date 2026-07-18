@@ -74,6 +74,7 @@ Barsalona's case is a reminder that a Constitutional Function does not have to a
 - [Producers — Constitutional Participant Analysis](producers.md)
 - [Publishers & Catalogue Funds — Constitutional Participant Analysis](publishers.md)
 - [Session Musicians & Sidemen — Constitutional Participant Analysis](session-musicians.md)
+- [Streaming Platforms & DSPs — Constitutional Participant Analysis](streaming-platforms.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Constitutional Research Roadmap](constitutional-research-roadmap.md)
 - [Human Capacities](human-capacities.md)

@@ -2,6 +2,12 @@
 
 Structural changes to the Initiative Launch System. Content changes within projects are not logged here.
 
+## 3.2.0 — 2026-07-18
+Prepared `07-constitutional-methodology/` to receive the Constitutional Library integration, without integrating any content or creating any new constitutional concept.
+
+- `07-constitutional-methodology/README.md` reorganised into four named tiers — Foundational Concepts, Participant Analyses, Programme Operations, and a prepared Constitutional Library destination — covering all 20 existing documents by name for the first time; no file was moved or renamed.
+- New `07-constitutional-methodology/library/` — an empty, documented destination for the Constitutional Library. Its README states explicitly that placement (subfolder versus a new top-level folder) is not yet decided, and that a new top-level folder would require a decision record before content arrives.
+
 ## 3.1.0 — 2026-07-18
 Added the Constitutional Intent Inbox (`00-system/intents/`) as the first working infrastructure closing the ChatGPT → Claude Code leg of the AI Workflow's handoff problem. See decision [003](04-decisions/003-constitutional-intent-inbox.md).
 

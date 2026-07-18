@@ -28,7 +28,9 @@ Entry point to the constitutional methodology — the evergreen body of thinking
 
 ## Relationships
 
-- [Constitutional Programme Dashboard](constitutional-programme-dashboard.md)
+This folder holds three tiers of document, plus a prepared destination for a fourth. Every existing file is listed below under the tier it belongs to — this index did not previously cover the Participant Analyses or Programme Operations tiers by name.
+
+### Foundational Concepts
 - [Human Capacities](human-capacities.md)
 - [Constitutional Functions](constitutional-functions.md)
 - [Constitutional Institutions](constitutional-institutions.md)
@@ -40,6 +42,25 @@ Entry point to the constitutional methodology — the evergreen body of thinking
 - [Constitutional Participant Analysis](constitutional-participant-analysis.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 
+### Participant Analyses
+- [Independent Labels](independent-labels.md)
+- [Artist Managers](managers.md)
+- [Producers](producers.md)
+- [Publishers & Catalogue Funds](publishers.md)
+- [Session Musicians & Sidemen](session-musicians.md)
+- [Booking Agents & Touring Agencies](booking-agents.md)
+- [Streaming Platforms & DSPs](streaming-platforms.md)
+
+### Programme Operations
+- [Constitutional Research Roadmap](constitutional-research-roadmap.md)
+- [Constitutional Programme Dashboard](constitutional-programme-dashboard.md)
+- [Constitutional Review — Research Phase 1](constitutional-review-phase-1.md)
+
+### Constitutional Library (prepared, not yet populated)
+- [library/](library/README.md) — destination prepared for the next major integration phase; holds no content yet.
+
 ## Examples
 
 ## Notes
+
+Tiering added to this index does not change where any existing file lives — no document was moved or renamed. See [library/README.md](library/README.md) for what remains open about the fourth tier's final placement.

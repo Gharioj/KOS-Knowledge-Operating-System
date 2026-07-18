@@ -1,46 +1,100 @@
-# AI Workflow — Operating Architecture
+# AI Workflow — Constitutional Operating Model
 
-*First draft — architecture only. Not yet implemented, not yet linked from other documents, not yet a decision. Awaiting approval.*
+*Version 2 — first-principles redesign. Supersedes the Version 1 draft (commit `b50717c`). Replaces the term "Constitutional Directive" with "Constitutional Intent": a directive specifies workflow; an intent specifies the desired constitutional outcome and leaves implementation to the AI ecosystem. Not yet implemented, not yet linked from other documents, not yet a decision. Awaiting approval.*
 
-An operating architecture for how research, thinking, implementation and record-keeping are divided between AI collaborators and the human, so that the scarcest resource in this system — human judgment — is spent on discovery and decision, never on administration.
+This is not documentation of a process. It is Project Zero: the operating architecture through which every future initiative in the Initiative Launch System is researched, designed, built and recorded — so that human creative capacity is spent on discovery, reflection, judgment and decision, and on nothing else.
 
-## Constitutional Purpose
+## Constitutional Objective
 
-This workflow exists to protect and multiply human creative capacity by minimising AI orchestration overhead. Every function it defines — research, design, implementation, documentation, record-keeping — exists to be performed *for* the human, not *by* the human. In the terms of [07-constitutional-methodology/constitutional-institutions.md](../07-constitutional-methodology/constitutional-institutions.md), this workflow is itself a constitutional institution: it has no standing beyond how faithfully it serves the human capacity it exists to organise around, and it is answerable to that standard, not to its own continuity.
+Maximise human creative capacity by minimising AI orchestration. The human is removed from implementation as far as possible and remains only for discovery, reflection, judgment and decision-making. Everything else — research assembly, drafting, editing, committing, cross-referencing, record-keeping — is constitutional infrastructure, not something the human does or routes by hand.
 
-## Principles
+## Constitutional Principle: Orchestration Belongs to the System, Not the Human
 
-1. **Human capacity is the constrained resource.** Every AI function in this workflow exists to protect the human's time and attention for discovery, judgment and decision — not to occupy it with administration.
-2. **One system, one constitutional function.** Each AI performs the function it is structurally suited to, without overlapping general-purpose duplication — so responsibility for any given output traces cleanly to one system.
-3. **GitHub is the sole canonical record.** A decision, definition or draft is not yet real within this system until it is written to the repository and committed. Conversation history, in either AI, is working memory, not the record.
-4. **Human involvement concentrates at decision points, not administration.** Approvals are reserved for moments that genuinely require judgment — a new direction, a structural change, a constitutional position — not for mechanical steps that follow directly from a decision already made.
-5. **Handoffs are structured, not manual.** What moves between AI systems is a defined artifact — a scoped brief, a drafted document — not free-form text the human must retype, reformat or reconcile by hand.
-6. **The workflow is reusable, not bespoke.** It applies uniformly to every initiative launched within the Initiative Launch System; it is not rebuilt per project.
+> The human should disappear from orchestration, not from authorship.
 
-## Architecture
+The human remains responsible for:
+- Discovery
+- Reflection
+- Judgment
+- Constitutional Intent
 
-### ChatGPT — Research, Constitutional Thinking, Architectural Design
+The AI ecosystem becomes responsible for:
+- Planning
+- Orchestration
+- Implementation
+- Documentation
+- Repository management
+- Editorial workflow
 
-Responsible for gathering and synthesising research, working through constitutional concepts, and proposing structure and architecture before anything is built. Its output is a scoped brief or draft precise enough that Claude Code can act on it directly — naming the target document, the intended sections, and the substance to develop — without the human mediating the handoff.
+Constitutional Intent is the highest layer of this operating model — the only layer the human interacts with directly. Everything beneath it is free to change, be replaced, or be automated further without changing the human's way of working: issue an intent, exercise judgment at its one checkpoint. Nothing beneath that layer is contractually visible to the human.
 
-### Claude Code — Implementation, Documentation, GitHub Management, Repository Maintenance
+## Why Version 1 Does Not Meet This Objective
 
-Responsible for turning approved direction into actual repository state: creating and editing files, applying [METADATA.md](../METADATA.md) and [NAMING.md](../NAMING.md), committing, pushing, and keeping the changelog and decision records current. Implements direction; does not originate it, per [PRINCIPLES.md](ai/PRINCIPLES.md).
+Version 1 named the right systems and the right responsibilities, but it left the human performing three jobs the objective forbids:
 
-### GitHub — Canonical Knowledge Base
+1. **The human was the message bus.** Every brief moved from ChatGPT to Claude Code by being retyped or pasted by a person. The workflow called this a "structured handoff," but structuring the artifact does not remove the human from carrying it.
+2. **Approval was granted per artifact, not per judgment.** Each document required an explicit "approved, continue" before the next began. That is repetitive prompting by another name — the human was asked to make the same low-stakes decision, over and over, rather than one real decision at the point it actually mattered.
+3. **There was no repeatable unit of work.** "One discovery → one document → one commit" was a convention the human had to keep re-asserting each turn, not a structure the system enforced on its own. Every session re-invented its own granularity.
 
-The repository is the only place a decision, definition or draft is considered to exist. Both AI systems operate against the same repository state rather than diverging copies of context carried in separate conversations — this is what allows a handoff between them to be a pointer to a commit, not a manual transcript.
+Version 1 described roles. It did not remove orchestration from the human — it just gave the human's orchestration better labels. Version 2 replaces the unit of interaction itself, and this refinement corrects a residual error in that replacement: a *directive* still specifies workflow, which quietly puts the human back in the business of designing sequence. An *intent* does not.
 
-### Human — Discovery, Judgment, Decision-Making
+## Constitutional Intent
 
-The human's role narrows deliberately to what only a human can do here: originate direction, evaluate proposals, decide, approve. Not retyping content between systems. Not manually tracking what has or hasn't been committed. Not performing mechanical edits that either AI can already do correctly once given a clear brief.
+The prompt is not the unit of work. The Constitutional Intent is.
 
-## Reducing Repetitive Prompting and Approvals
+A Constitutional Intent is a named, desired constitutional outcome, issued as a single instruction from the human. It does not specify workflow, roles or sequence — those are Planning, an AI-ecosystem responsibility. What it fixes is the outcome sought and, at most, one point where human judgment is required. Issuing an intent replaces what would otherwise be a chain of prompts and a chain of approvals with one instruction and, at most, one checkpoint.
 
-- Work proceeds in scoped units — one discovery, one document, one commit — so each approval covers a complete, reviewable piece of work rather than an open-ended stream.
-- Approval is requested at structural or constitutional decision points, not at every routine edit that follows from a decision already approved.
-- This document itself is the standing brief for the division of labour, so each new initiative starts from a known architecture instead of re-explaining roles from scratch.
+### Anatomy of a Constitutional Intent
+
+| Element | Description |
+|---|---|
+| **Name** | A short constitutional verb phrase — e.g. "Promote Constitutional Capacity." What the human actually says. |
+| **Desired Outcome** | The constitutional state that should exist once the intent is fulfilled — not a description of steps. |
+| **AI Ecosystem Response** | Determined by the ecosystem's own planning, not prescribed by the human — typically some combination of research, drafting, implementation and repository management, chosen to fit the intent. |
+| **Human Checkpoint** | The single point, if any, where judgment is required — never more than one per intent. |
+| **Completion Condition** | What must be true in the GitHub repository for the intent to count as fulfilled. |
+
+An intent that requires the human to specify sequence, assign roles, or decide mid-execution has collapsed back into a directive — a sign it was issued at the wrong altitude, not a normal feature of the model. The checkpoint belongs at the start (issuing the intent) or the end (reviewing the outcome), never scattered through the middle, and never in specifying how.
+
+### Constitutional Intent Registry (illustrative)
+
+| Constitutional Intent | Desired Outcome | Human Checkpoint |
+|---|---|---|
+| **Promote Constitutional Capacity** | A Human Capacity being exercised but not yet recognised becomes formally recognised in the constitutional record. | Review the recognition case, or the committed result — not both. |
+| **Promote Constitutional Contribution** | An exercised but unrecorded Contribution becomes Recognised Contribution. | Same as above. |
+| **Analyse Independent Labels** | A constitutional participant analysis of this group exists in the repository. | Review the finished analysis. |
+| **Refine Constitutional Economics** | The existing definition is developed and improved. | Review the revision as a single diff. |
+| **Bank Discovery** | A raw discovery or insight is captured to the repository before it can be lost. | None — capture is never gated on approval. |
+| **Prepare Editorial Review** | A single packet summarising all pending changes and open questions exists, ready for one review pass. | Review the packet. |
+
+This registry is illustrative, not exhaustive; new intents are named as recurring constitutional outcomes are recognised. In every case, *how* the outcome is reached — which system researches, drafts, implements or commits, in what order — is Planning, not something the registry or the human prescribes. The registry names outcomes and checkpoints; it does not name steps.
+
+## Roles Under the Constitutional Intent Model
+
+### ChatGPT — Constitutional Thinking, Research, Architectural Design
+Contributes the constitutional thinking, research and architectural design an intent's outcome depends on, and participates in Planning how that outcome is reached. Its output is substance for the ecosystem's plan, not a fixed brief dictating Claude Code's steps.
+
+### Claude Code — Orchestration, Implementation, Documentation, Repository Management, Editorial Workflow
+Plans and executes what an intent requires — implementation, documentation, committing, pushing, and assembling editorial review packets — without pausing mid-execution for approval. Pauses only at the intent's one defined checkpoint. Implements constitutional direction; does not originate it, per [ai/PRINCIPLES.md](ai/PRINCIPLES.md).
+
+### GitHub — Canonical Constitutional Knowledge Base
+The only state that counts as *done*. An intent is not fulfilled until its output is committed. Both AI systems act against this one shared state rather than private, diverging context — this is what makes an intent portable between sessions and between systems.
+
+### Human — Discovery, Reflection, Judgment, Constitutional Intent
+Issues intents. Sits at the one checkpoint each intent defines. Is not consulted on planning, sequence or roles — those belong to the ecosystem — and does not carry content between systems by hand where that can be avoided.
+
+## The Handoff Problem, Honestly
+
+ChatGPT and Claude Code have no live connection to each other today. Until one exists, the human remains the physical carrier of whatever ChatGPT produces — research, a constitutional case, an architectural proposal — into Claude Code. This is the one piece of orchestration current tooling cannot yet remove, and Version 2 does not pretend otherwise. What changes is the shape of that carrying: one piece of substance, moved once toward a stated intent, rather than a back-and-forth of clarifying prompts. Closing this gap for real — a shared location in the repository both systems read from, or a direct integration — is future infrastructure, not something this document can claim to have already solved.
+
+## Reducing Approval to Genuine Judgment
+
+A checkpoint is genuine when it involves a new direction, a structural or constitutional position, or a judgment call the system cannot resolve on its own. It is not genuine when it merely confirms that an already-issued intent was fulfilled as planned — that is verification, and verification is Claude Code's job, not a reason to interrupt the human. This does not relax [GOVERNANCE.md](../GOVERNANCE.md): structural changes and new top-level folders still require a decision record. What changes is that routine fulfilment of an intent is no longer treated as if it carried the same weight.
+
+## Constitutional Status of This Document
+
+This is Version 2 of a proposal, not yet adopted. Per [GOVERNANCE.md](../GOVERNANCE.md), adopting it — and any later change to it — requires a decision record, since it is a change within `00-system/`. It is not yet linked from [00-system/README.md](README.md). No intent in the registry above has been executed; the registry describes the target model, not current practice.
 
 ## Notes
 
-This is a first draft: architecture only, not yet implemented, and not yet linked from [00-system/README.md](README.md) or recorded as a decision in [04-decisions/](../04-decisions/README.md). Per [GOVERNANCE.md](../GOVERNANCE.md), formal adoption of this workflow — and any change to it once adopted — requires a decision record, since it is a change within `00-system/`.
+Refinement continues in a future session: sharpening how ChatGPT's output reaches Claude Code without human retyping, deciding which intents are core versus initiative-specific, and specifying how the human-carried handoff step is eventually retired rather than merely shortened.

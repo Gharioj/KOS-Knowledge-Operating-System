@@ -49,6 +49,7 @@ Every Constitutional Question carries exactly one of the following states at any
 - [Independent Labels — Constitutional Participant Analysis](independent-labels.md)
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
 - [Producers — Constitutional Participant Analysis](producers.md)
+- [Constitutional Research Roadmap](constitutional-research-roadmap.md) — sequences future participant analyses against this bank
 
 ## Constitutional Questions Bank
 

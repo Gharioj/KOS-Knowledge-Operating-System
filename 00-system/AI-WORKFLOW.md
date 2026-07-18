@@ -83,9 +83,11 @@ The only state that counts as *done*. An intent is not fulfilled until its outpu
 ### Human — Discovery, Reflection, Judgment, Constitutional Intent
 Issues intents. Sits at the one checkpoint each intent defines. Is not consulted on planning, sequence or roles — those belong to the ecosystem — and does not carry content between systems by hand where that can be avoided.
 
-## The Handoff Problem, Honestly
+## The Handoff Problem
 
-ChatGPT and Claude Code have no live connection to each other today. Until one exists, the human remains the physical carrier of whatever ChatGPT produces — research, a constitutional case, an architectural proposal — into Claude Code. This is the one piece of orchestration current tooling cannot yet remove, and Version 2 does not pretend otherwise. What changes is the shape of that carrying: one piece of substance, moved once toward a stated intent, rather than a back-and-forth of clarifying prompts. Closing this gap for real — a shared location in the repository both systems read from, or a direct integration — is future infrastructure, not something this document can claim to have already solved.
+ChatGPT and Claude Code have no live connection to each other. The ChatGPT → Claude Code leg is addressed by the [Constitutional Intent Inbox](intents/README.md), adopted by decision [003](../04-decisions/003-constitutional-intent-inbox.md): the human saves ChatGPT's output as one file, in a fixed format, at `00-system/intents/inbox/`, and Claude Code reads it directly at the start of a session — no retyping, no pasting into a Claude Code conversation. This is a first working version of the mechanism, not a final one.
+
+The Claude Code → ChatGPT leg remains open: ChatGPT has no automatic visibility into repository state, so the human still carries context back to it by hand. Closing this — a repository connector for ChatGPT, or a direct API-based integration — is a genuine constitutional decision: it involves external configuration, credentials or cost that only the human can authorise, and it may change whether ChatGPT remains a distinct participant in this workflow at all. It is not decided here.
 
 ## Reducing Approval to Genuine Judgment
 
@@ -93,7 +95,9 @@ A checkpoint is genuine when it involves a new direction, a structural or consti
 
 ## Constitutional Status of This Document
 
-This is Version 2 of a proposal, not yet adopted. Per [GOVERNANCE.md](../GOVERNANCE.md), adopting it — and any later change to it — requires a decision record, since it is a change within `00-system/`. It is not yet linked from [00-system/README.md](README.md). No intent in the registry above has been executed; the registry describes the target model, not current practice.
+The Constitutional Intent model described here is Version 2 of a proposal, not yet formally adopted as a whole. Per [GOVERNANCE.md](../GOVERNANCE.md), adopting it — and any later change to it — requires a decision record, since it is a change within `00-system/`. No intent in the registry above has been executed; the registry describes the target model, not current practice.
+
+One piece is live infrastructure, not just proposal: the [Constitutional Intent Inbox](intents/README.md), adopted by decision [003](../04-decisions/003-constitutional-intent-inbox.md), which closes the ChatGPT → Claude Code leg of [the handoff problem](#the-handoff-problem). Its adoption does not constitute adoption of the wider model.
 
 ## Notes
 

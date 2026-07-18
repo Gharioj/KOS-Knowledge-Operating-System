@@ -9,3 +9,4 @@ Use [00-system/templates/decision.md](../00-system/templates/decision.md), named
 |---|---|---|---|
 | [001](001-two-repository-publication-strategy.md) | Two-Repository Publication Strategy | decided | 2026-07-16 |
 | [002](002-rename-to-initiative-launch-system-and-constitutional-methodology.md) | Rename to Initiative Launch System and Add Constitutional Methodology | decided | 2026-07-18 |
+| [003](003-constitutional-intent-inbox.md) | Constitutional Intent Inbox | decided | 2026-07-18 |

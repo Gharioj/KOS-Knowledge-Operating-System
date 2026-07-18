@@ -2,6 +2,13 @@
 
 Structural changes to the Initiative Launch System. Content changes within projects are not logged here.
 
+## 3.1.0 — 2026-07-18
+Added the Constitutional Intent Inbox (`00-system/intents/`) as the first working infrastructure closing the ChatGPT → Claude Code leg of the AI Workflow's handoff problem. See decision [003](04-decisions/003-constitutional-intent-inbox.md).
+
+- New `00-system/intents/inbox/` — fixed location and format for the human to hand ChatGPT's output to Claude Code as a single file, replacing manual retyping into a Claude Code conversation.
+- `00-system/ai/CLAUDE.md` updated: Claude Code now checks the inbox at the start of every session.
+- `00-system/README.md` and `00-system/AI-WORKFLOW.md` updated to reference the new mechanism. The wider Constitutional Intent model remains an unadopted proposal; only the inbox itself is adopted as working infrastructure.
+
 ## 3.0.0 — 2026-07-18
 Renamed from Knowledge Operating System (KOS) to Initiative Launch System (ILS), reflecting the system's evolution from a general knowledge architecture toward launching and structuring initiatives. See decision [002](04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md).
 

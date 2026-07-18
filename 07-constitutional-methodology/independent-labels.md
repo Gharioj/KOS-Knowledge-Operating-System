@@ -60,6 +60,7 @@ Across all three institutions, the pattern is the same: constitutional value con
 
 - [Constitutional Participant Analysis](constitutional-participant-analysis.md)
 - [Artist Managers — Constitutional Participant Analysis](managers.md)
+- [Producers — Constitutional Participant Analysis](producers.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Human Capacities](human-capacities.md)
 - [Constitutional Functions](constitutional-functions.md)
@@ -75,7 +76,7 @@ Findings are drawn from public reporting on three real institutions, not from in
 
 ## Constitutional Questions
 
-These remain open. Per the constitutional methodology's own discipline, a category is discovered through repeated evidence accumulated across multiple participant analyses — it is not created from a single case. Until further participant analyses exist, the following are questions, not conclusions:
+These remain open. Per the [Constitutional Analysis Method](constitutional-analysis-method.md), a category is discovered through repeated evidence accumulated across multiple participant analyses — it is not created from a single case. Evidence added since is tracked in the consolidated bank in [Constitutional Analysis Method](constitutional-analysis-method.md#constitutional-questions-bank), not here — this section is not revised as evidence accumulates:
 
 1. **Is institutional self-correction its own category of Recognised Contribution?** One Little Independent's 2020 renaming is one observed instance of an institution revising a past decision once its harm was recognised. Whether this is a distinct, creditable category of [Recognised Contribution](recognised-contribution.md) — rather than simply the absence of further harm — cannot be settled from this single case.
 2. **Is Secretly Group's structure the right model for POLiPHONiC?** Centralising administrative [Constitutional Functions](constitutional-functions.md) while separating creative judgment per imprint is one structural pattern, observed once, alongside two contrasting single-founder models (Mute, One Little Independent). Whether it is the right model for POLiPHONiC, rather than merely a viable one among several, is not established here.

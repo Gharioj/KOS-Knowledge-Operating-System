@@ -60,6 +60,7 @@ The pattern from the labels analysis recurs here: centralising the recurring, le
 
 - [Constitutional Participant Analysis](constitutional-participant-analysis.md)
 - [Independent Labels — Constitutional Participant Analysis](independent-labels.md)
+- [Producers — Constitutional Participant Analysis](producers.md)
 - [Constitutional Analysis Method](constitutional-analysis-method.md)
 - [Human Capacities](human-capacities.md)
 - [Constitutional Functions](constitutional-functions.md)
@@ -75,7 +76,7 @@ Findings are drawn from public reporting on three real managers, not internal op
 
 ## Constitutional Questions
 
-Per the discipline established in [Independent Labels — Constitutional Participant Analysis](independent-labels.md#constitutional-questions), a category is discovered through repeated evidence across multiple participant analyses, not created from a single case. The following are open questions, not conclusions:
+Per the [Constitutional Analysis Method](constitutional-analysis-method.md), a category is discovered through repeated evidence across multiple participant analyses, not created from a single case. Evidence added since is tracked in the consolidated bank in [Constitutional Analysis Method](constitutional-analysis-method.md#constitutional-questions-bank), not here — this section is not revised as evidence accumulates. The following were open questions, not conclusions, as of this analysis:
 
 1. **Should the administrative function and a capital/ownership function be treated as two distinct constitutional categories, rather than one?** The Braun/Ithaca case shows administrative capacity decoupling entirely from the artist relationship it originated in and acting on an unrelated artist's value — unlike the ordinary administration-versus-creative-capacity tradeoff seen in Grant's and Capshaw's cases, or in the labels analysis. Observed once; not yet a settled category.
 2. **Does value that extends past an institution's own participants — Grant's terms benefiting artists industry-wide, not only Led Zeppelin — belong within Constitutional Value as currently scoped, or point to a broader category of externality value?** Not settled from one case.

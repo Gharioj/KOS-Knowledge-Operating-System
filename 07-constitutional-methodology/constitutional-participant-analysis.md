@@ -31,5 +31,6 @@ source:
 
 - [Independent Labels — Constitutional Participant Analysis](independent-labels.md) — applies this method to Mute Records, One Little Independent Records and Secretly Group, informing POLiPHONiC.
 - [Artist Managers — Constitutional Participant Analysis](managers.md) — applies this method to Peter Grant, Coran Capshaw and Scooter Braun, informing POLiPHONiC.
+- [Producers — Constitutional Participant Analysis](producers.md) — applies this method to Rick Rubin, Max Martin and Dr. Dre, informing POLiPHONiC.
 
 ## Notes

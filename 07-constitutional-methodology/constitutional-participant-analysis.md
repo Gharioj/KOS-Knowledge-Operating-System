@@ -29,4 +29,6 @@ source:
 
 ## Examples
 
+- [Independent Labels — Constitutional Participant Analysis](independent-labels.md) — applies this method to Mute Records, One Little Independent Records and Secretly Group, informing POLiPHONiC.
+
 ## Notes

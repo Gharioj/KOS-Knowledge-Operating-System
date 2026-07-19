@@ -8,3 +8,4 @@ The operating machinery of the Initiative Launch System — not content, not a p
 - [AI-WORKFLOW.md](AI-WORKFLOW.md) — the constitutional operating model dividing research, implementation and decision-making between ChatGPT, Claude Code, GitHub and the human (proposal, not yet fully adopted)
 - [intents/](intents/README.md) — the Constitutional Intent inbox: where ChatGPT's output is handed to Claude Code without manual copying
 - [constitutional-memory.md](constitutional-memory.md) — constitutional specification for memory as a system participant (specification only, not implemented or adopted)
+- [KOS_Workflow_Protocol_v0.2.md](KOS_Workflow_Protocol_v0.2.md) — operational protocol for repository verification, recovery, autonomous execution and batch documentation work, per decision [005](../04-decisions/005-kos-workflow-protocol.md)

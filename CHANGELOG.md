@@ -2,6 +2,13 @@
 
 Structural changes to the Initiative Launch System. Content changes within projects are not logged here.
 
+## 3.3.0 — 2026-07-19
+Added `00-system/KOS_Workflow_Protocol_v0.2.md`, recording workflow improvements observed during a session spanning work across the POLiPHONiC, From-Wildfires-to-Regeneration and Initiative Launch System repositories. See decision [005](04-decisions/005-kos-workflow-protocol.md).
+
+- New `00-system/KOS_Workflow_Protocol_v0.2.md` — covers Repository Lock, Repository Verification, Repository Recovery Protocol, Autonomous Execution, Human Decision Points, Repository Isolation, Batch Documentation Generation, Automatic Quality Assurance, Session Completion Reports, and Continuous Improvement Process. Extends, and does not duplicate, `AI-WORKFLOW.md`, `00-system/WORKFLOW.md`, and `ai/PRINCIPLES.md`.
+- `00-system/README.md` updated to reference the new document.
+- No existing document modified in substance.
+
 ## 3.2.0 — 2026-07-18
 Prepared `07-constitutional-methodology/` to receive the Constitutional Library integration, without integrating any content or creating any new constitutional concept.
 

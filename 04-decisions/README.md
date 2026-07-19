@@ -11,3 +11,4 @@ Use [00-system/templates/decision.md](../00-system/templates/decision.md), named
 | [002](002-rename-to-initiative-launch-system-and-constitutional-methodology.md) | Rename to Initiative Launch System and Add Constitutional Methodology | decided | 2026-07-18 |
 | [003](003-constitutional-intent-inbox.md) | Constitutional Intent Inbox | decided | 2026-07-18 |
 | [004](004-constitutional-programme-dashboard-checkpoint.md) | Constitutional Programme Dashboard as Session-Start Checkpoint | decided | 2026-07-18 |
+| [005](005-kos-workflow-protocol.md) | KOS Workflow Protocol v0.2 | decided | 2026-07-19 |

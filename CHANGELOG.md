@@ -2,6 +2,14 @@
 
 Structural changes to the Initiative Launch System. Content changes within projects are not logged here.
 
+## 3.4.0 — 2026-07-20
+Replaced `00-system/KOS_Workflow_Protocol_v0.2.md` with `00-system/workflow-protocol-v0.3.md`, adding a Prompt Completeness section and correcting the prior version's use of the retired "KOS" name. See decision [006](04-decisions/006-operational-workflow-protocol-v0.3.md).
+
+- New `00-system/workflow-protocol-v0.3.md` — carries every section of Version 0.2 forward unchanged in substance (Repository Lock, Repository Verification, Repository Recovery Protocol, Autonomous Execution, Human Decision Points, Repository Isolation, Batch Documentation Generation, Automatic Quality Assurance, Session Completion Reports, Continuous Improvement Process), and adds a new Prompt Completeness section specifying that a prompt to an AI collaborator should be self-contained (repository identity, purpose, objective, constraints, deliverables, verification steps, completion criteria).
+- `00-system/KOS_Workflow_Protocol_v0.2.md` archived to `06-archive/00-system/KOS_Workflow_Protocol_v0.2.md`, per the preserve-don't-delete principle — not deleted, its content unchanged in substance.
+- `00-system/README.md` updated to reference the new document.
+- No change to `AI-WORKFLOW.md`, `GOVERNANCE.md`, or `ai/PRINCIPLES.md` — this is an operational-methodology-layer change only.
+
 ## 3.3.0 — 2026-07-19
 Added `00-system/KOS_Workflow_Protocol_v0.2.md`, recording workflow improvements observed during a session spanning work across the POLiPHONiC, From-Wildfires-to-Regeneration and Initiative Launch System repositories. See decision [005](04-decisions/005-kos-workflow-protocol.md).
 

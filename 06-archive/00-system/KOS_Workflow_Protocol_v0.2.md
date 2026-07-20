@@ -1,15 +1,19 @@
+*Archived 2026-07-20. Superseded by [00-system/workflow-protocol-v0.3.md](../../00-system/workflow-protocol-v0.3.md), per decision [006](../../04-decisions/006-operational-workflow-protocol-v0.3.md), which also corrects this document's use of the retired "KOS" name. Kept here, unedited in substance, per the preserve-don't-delete principle in [ai/PRINCIPLES.md](../../00-system/ai/PRINCIPLES.md). Internal links below have been updated only so far as needed to resolve from this archived location; no other content has changed.*
+
+---
+
 # KOS Workflow Protocol — Version 0.2
 
-*Operational protocol recording workflow improvements observed during practice, most recently a session spanning work across the POLiPHONiC, From-Wildfires-to-Regeneration and Initiative Launch System repositories. This document sits alongside [AI-WORKFLOW.md](AI-WORKFLOW.md) and [WORKFLOW.md](WORKFLOW.md): it does not restate either, but adds the operational detail practice has since shown to be necessary. Version 0.1 did not exist as a separate document; this is the first version, consolidating practice that had previously been applied ad hoc.*
+*Operational protocol recording workflow improvements observed during practice, most recently a session spanning work across the POLiPHONiC, From-Wildfires-to-Regeneration and Initiative Launch System repositories. This document sits alongside [AI-WORKFLOW.md](../../00-system/AI-WORKFLOW.md) and [WORKFLOW.md](../../00-system/WORKFLOW.md): it does not restate either, but adds the operational detail practice has since shown to be necessary. Version 0.1 did not exist as a separate document; this is the first version, consolidating practice that had previously been applied ad hoc.*
 
 ## Relationship to existing documents
 
 This protocol extends, and does not duplicate:
-- [WORKFLOW.md](../WORKFLOW.md) (root) — the editorial lifecycle of content (Capture → Research → Draft → Published → On-hold → Archived). Unchanged by this document.
-- [00-system/WORKFLOW.md](WORKFLOW.md) — the git pull/push/clean-tree operating procedure. This protocol assumes that procedure and adds identity verification on top of it (Section 2), rather than restating it.
-- [AI-WORKFLOW.md](AI-WORKFLOW.md) — the Constitutional Intent model, roles, and the human checkpoint discipline. This protocol operationalises that model's "Reducing Approval to Genuine Judgement" section (Sections 4–5 below) rather than replacing it.
-- [ai/PRINCIPLES.md](ai/PRINCIPLES.md) — shared AI collaborator principles, in particular "no silent structural changes" and "one source of truth." This protocol's Repository Lock and Repository Isolation sections are that principle applied specifically to working across multiple repositories.
-- [constitutional-memory.md](constitutional-memory.md) — the specification for memory and synchronisation. This protocol's "GitHub is the authoritative source" principle is the same claim that document makes for canonical state generally, applied here to repository identity specifically.
+- [WORKFLOW.md](../../WORKFLOW.md) (root) — the editorial lifecycle of content (Capture → Research → Draft → Published → On-hold → Archived). Unchanged by this document.
+- [00-system/WORKFLOW.md](../../00-system/WORKFLOW.md) — the git pull/push/clean-tree operating procedure. This protocol assumes that procedure and adds identity verification on top of it (Section 2), rather than restating it.
+- [AI-WORKFLOW.md](../../00-system/AI-WORKFLOW.md) — the Constitutional Intent model, roles, and the human checkpoint discipline. This protocol operationalises that model's "Reducing Approval to Genuine Judgement" section (Sections 4–5 below) rather than replacing it.
+- [ai/PRINCIPLES.md](../../00-system/ai/PRINCIPLES.md) — shared AI collaborator principles, in particular "no silent structural changes" and "one source of truth." This protocol's Repository Lock and Repository Isolation sections are that principle applied specifically to working across multiple repositories.
+- [constitutional-memory.md](../../00-system/constitutional-memory.md) — the specification for memory and synchronisation. This protocol's "GitHub is the authoritative source" principle is the same claim that document makes for canonical state generally, applied here to repository identity specifically.
 
 ## 1. Repository Lock
 
@@ -23,7 +27,7 @@ Before any change, verify and report:
 - the current branch;
 - working tree status (clean or dirty, and what is outstanding if dirty).
 
-This extends [00-system/WORKFLOW.md](WORKFLOW.md)'s existing "pull at the start of every session" rule: that rule assumes the correct repository is already checked out and asks only whether it is up to date. Repository Verification checks identity first — *which* repository is active — before freshness is asked at all.
+This extends [00-system/WORKFLOW.md](../../00-system/WORKFLOW.md)'s existing "pull at the start of every session" rule: that rule assumes the correct repository is already checked out and asks only whether it is up to date. Repository Verification checks identity first — *which* repository is active — before freshness is asked at all.
 
 ## 3. Repository Recovery Protocol
 
@@ -38,12 +42,12 @@ This generalises a real recovery performed during this session's POLiPHONiC work
 
 ## 4. Autonomous Execution
 
-Once a task's repository has been locked and verified, execution proceeds without pausing for intermediate confirmation, except at the checkpoints defined in Section 5. This extends, rather than replaces, [AI-WORKFLOW.md](AI-WORKFLOW.md#reducing-approval-to-genuine-judgment)'s existing position that a checkpoint is genuine only when it involves a new direction or a judgement the system cannot resolve on its own — not routine confirmation that already-issued work is proceeding as instructed.
+Once a task's repository has been locked and verified, execution proceeds without pausing for intermediate confirmation, except at the checkpoints defined in Section 5. This extends, rather than replaces, [AI-WORKFLOW.md](../../00-system/AI-WORKFLOW.md#reducing-approval-to-genuine-judgment)'s existing position that a checkpoint is genuine only when it involves a new direction or a judgement the system cannot resolve on its own — not routine confirmation that already-issued work is proceeding as instructed.
 
 ## 5. Human Decision Points
 
 Execution pauses only for:
-- a genuine constitutional or structural judgement the system cannot resolve on its own, per [GOVERNANCE.md](../GOVERNANCE.md)'s decision-rights table;
+- a genuine constitutional or structural judgement the system cannot resolve on its own, per [GOVERNANCE.md](../../GOVERNANCE.md)'s decision-rights table;
 - an action that is destructive, irreversible, or that would affect a repository or system beyond the one currently locked;
 - a privileged system permission (credentials, force-push, rewriting remote history, or similar);
 - genuine ambiguity about which repository, document, or objective is intended, where guessing would risk acting on the wrong target.
@@ -75,7 +79,7 @@ Every execution — a single Constitutional Intent or a full autonomous batch �
 
 ## 10. Continuous Improvement Process
 
-At the end of an operational session, workflow improvements actually observed in practice — not hypothetical ones — are recorded back into this protocol, or a successor version of it, following the same decision-record discipline [GOVERNANCE.md](../GOVERNANCE.md) already requires for any structural change within `00-system/`. This document is itself the first product of that process.
+At the end of an operational session, workflow improvements actually observed in practice — not hypothetical ones — are recorded back into this protocol, or a successor version of it, following the same decision-record discipline [GOVERNANCE.md](../../GOVERNANCE.md) already requires for any structural change within `00-system/`. This document is itself the first product of that process.
 
 ## Principles
 

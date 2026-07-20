@@ -12,3 +12,4 @@ Use [00-system/templates/decision.md](../00-system/templates/decision.md), named
 | [003](003-constitutional-intent-inbox.md) | Constitutional Intent Inbox | decided | 2026-07-18 |
 | [004](004-constitutional-programme-dashboard-checkpoint.md) | Constitutional Programme Dashboard as Session-Start Checkpoint | decided | 2026-07-18 |
 | [005](005-kos-workflow-protocol.md) | KOS Workflow Protocol v0.2 | decided | 2026-07-19 |
+| [006](006-operational-workflow-protocol-v0.3.md) | Operational Workflow Protocol v0.3 — Self-Contained Prompts and Naming Correction | decided | 2026-07-20 |

@@ -1,6 +1,6 @@
 # Initiative Lifecycle System
 
-*(Formerly the Knowledge Operating System, then the Initiative Launch System — see [CHANGELOG.md](CHANGELOG.md), decision [002](04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md) and decision [007](04-decisions/007-evolve-to-initiative-lifecycle-system.md).)*
+*(Formerly the Knowledge Operating System, then the Initiative Launch System — see [CHANGELOG.md](CHANGELOG.md), decision [002](04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md) and decision [007](04-decisions/007-evolve-to-initiative-lifecycle-system.md). The local repository folder and GitHub remote, previously left unchanged, are now being aligned with this name per decision [011](04-decisions/011-physical-repository-identity-migration.md).)*
 
 Initiative Lifecycle System (ILS): a complete operating system for designing, developing, governing, documenting, publishing, collaborating on, maintaining and continuously improving initiatives — not a project, not a document archive, but the structure from which projects, research, decisions and publications emerge, and continue to be governed and improved once launched. Its constitutional methodology — how human capacities, functions, institutions, contribution and value are defined and related — is a core, evergreen component alongside the system's other knowledge.
 

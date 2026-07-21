@@ -2,6 +2,15 @@
 
 Structural changes to the Initiative Lifecycle System. Content changes within projects are not logged here.
 
+## 4.4.0 — 2026-07-21
+Began physical repository identity migration: the local repository folder is renamed from `Knowledge Operating System` to `Initiative Lifecycle System`, completing the documentation-to-identity alignment decisions 002 and 007 deliberately deferred. See decision [011](04-decisions/011-physical-repository-identity-migration.md).
+
+- `NAMING.md`'s Exception section rewritten to record the migration rather than a permanent "left as-is" position.
+- `02-knowledge/glossary.md`'s Knowledge Operating System (KOS) entry updated: the physical identifiers are no longer described as unchanged.
+- Root `README.md`'s subtitle updated to reference decision 011.
+- The GitHub remote rename (`Gharioj/KOS-Knowledge-Operating-System` → `Gharioj/ILS-Initiative-Lifecycle-System`) is a manual step outside this environment's reach — see the accompanying completion report for exact steps. `git remote -v` will continue to show the prior URL until it is performed and the local remote is updated to match.
+- Decisions 002 and 007 are not edited; this decision supersedes only their "left as-is" position on physical identifiers.
+
 ## 4.3.0 — 2026-07-21
 Adopted the Single Origination Principle: a project's public repository never originates content — every file it holds must trace back to an approved master in this repository first. Reinforces decision [001](04-decisions/001-two-repository-publication-strategy.md) explicitly, following a methodology consistency audit that found public-repository content with no traceable private-repository master. See decision [010](04-decisions/010-single-origination-principle.md).
 

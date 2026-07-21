@@ -56,6 +56,8 @@ A Constitutional Intent is a named, desired constitutional outcome, issued as a 
 
 An intent that requires the human to specify sequence, assign roles, or decide mid-execution has collapsed back into a directive — a sign it was issued at the wrong altitude, not a normal feature of the model. The checkpoint belongs at the start (issuing the intent) or the end (reviewing the outcome), never scattered through the middle, and never in specifying how.
 
+Where an intent's outcome changes Constitutional Research Programme state, its Completion Condition includes the [Constitutional Programme Dashboard](../07-constitutional-methodology/constitutional-programme-dashboard.md) being updated to reflect that outcome — decided by decision [009](../04-decisions/009-mandatory-dashboard-completion-condition.md), which also resolves the session-start-only question left open by decision [004](../04-decisions/004-constitutional-programme-dashboard-checkpoint.md).
+
 ### Constitutional Intent Registry (illustrative)
 
 | Constitutional Intent | Desired Outcome | Human Checkpoint |

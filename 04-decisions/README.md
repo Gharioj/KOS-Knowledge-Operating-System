@@ -15,3 +15,4 @@ Use [00-system/templates/decision.md](../00-system/templates/decision.md), named
 | [006](006-operational-workflow-protocol-v0.3.md) | Operational Workflow Protocol v0.3 — Self-Contained Prompts and Naming Correction | decided | 2026-07-20 |
 | [007](007-evolve-to-initiative-lifecycle-system.md) | Evolve Initiative Launch System to Initiative Lifecycle System | decided | 2026-07-21 |
 | [008](008-publication-pipeline-and-rendered-output-verification.md) | Publication Pipeline and Rendered-Output Verification (Workflow Protocol v0.4) | decided | 2026-07-21 |
+| [009](009-mandatory-dashboard-completion-condition.md) | Constitutional Programme Dashboard as a Mandatory Completion Condition | decided | 2026-07-21 |

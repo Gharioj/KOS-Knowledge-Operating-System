@@ -2,6 +2,14 @@
 
 Structural changes to the Initiative Lifecycle System. Content changes within projects are not logged here.
 
+## 4.2.0 — 2026-07-21
+Made updating the Constitutional Programme Dashboard a mandatory Completion Condition for any Constitutional Intent that changes Constitutional Research Programme state, resolving the question decision [004](04-decisions/004-constitutional-programme-dashboard-checkpoint.md) left open. See decision [009](04-decisions/009-mandatory-dashboard-completion-condition.md).
+
+- `00-system/ai/CLAUDE.md`'s checklist gains a new item: update the Dashboard before completing a Constitutional Intent that changes programme state, alongside the existing session-start review from decision 004.
+- `00-system/AI-WORKFLOW.md`'s Anatomy of a Constitutional Intent section notes that an affected intent's Completion Condition includes the Dashboard update.
+- `00-system/workflow-protocol-v0.4.md`'s Automatic Quality Assurance (§9) and Principles gain a corresponding check.
+- `07-constitutional-methodology/constitutional-programme-dashboard.md`'s own Notes section updated to record the question as resolved.
+
 ## 4.1.0 — 2026-07-21
 Added `00-system/workflow-protocol-v0.4.md`, recording the publication pipeline demonstrated by Project 001's From Wildfires to Regeneration reaching public GitHub Pages distribution, and adding rendered-output verification to Automatic Quality Assurance. See decision [008](04-decisions/008-publication-pipeline-and-rendered-output-verification.md).
 

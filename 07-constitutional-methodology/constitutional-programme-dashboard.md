@@ -100,6 +100,7 @@ Full register: [Constitutional Analysis Method § Constitutional Questions Bank]
 | 2026-07-18 | Sixth participant analysis completed: Booking Agents & Touring Agencies — all originally planned Phase 1 participant groups now analysed; Theme A cluster reaches four data points; CQ-4 exceeds resolution thresholds for the second analysis running |
 | 2026-07-18 | Seventh participant analysis completed: Streaming Platforms & DSPs — first infrastructure-native participant type; Human Capacity found displaced rather than absent; CQ-10 raised (automated execution of a Constitutional Function); all four Roadmap-recommended participant groups now complete |
 | 2026-07-21 | System evolved Initiative Launch System → Initiative Lifecycle System, reflecting demonstrated support for an initiative's complete lifecycle rather than only its launch; publication pipeline (Word → GitHub → Claude Code → Markdown → GitHub Pages) and rendered-output verification recorded in workflow-protocol-v0.4.md (decisions [007](../04-decisions/007-evolve-to-initiative-lifecycle-system.md) and [008](../04-decisions/008-publication-pipeline-and-rendered-output-verification.md)) |
+| 2026-07-21 | Dashboard maintenance made a mandatory Completion Condition for any Constitutional Intent that changes programme state, resolving the question left open by decision 004 (decision [009](../04-decisions/009-mandatory-dashboard-completion-condition.md)) |
 
 ## Relationships
 
@@ -118,4 +119,4 @@ Full register: [Constitutional Analysis Method § Constitutional Questions Bank]
 
 ## Notes
 
-This is a manually maintained snapshot, not a generated or live view — nothing in the repository currently updates it automatically, so it will drift out of date unless revised after each Constitutional Intent completes. Whether dashboard maintenance should become a mandatory step of every future intent's completion condition, or remain a separately issued intent, is not decided here — see the accompanying report.
+This is a manually maintained snapshot, not a generated or live view — nothing in the repository currently updates it automatically, so it will drift out of date unless revised after each Constitutional Intent completes. **Resolved 2026-07-21:** updating this Dashboard is now a mandatory Completion Condition for any Constitutional Intent that changes Constitutional Research Programme state, per decision [009](../04-decisions/009-mandatory-dashboard-completion-condition.md) — closing the question this Notes section previously left open.

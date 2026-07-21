@@ -85,7 +85,8 @@ Before any commit that completes a documentation task, verify:
 - terminology is used consistently, including that no live document introduces a retired term as if it were current;
 - repository consistency — no file outside the task's intended scope has been modified;
 - the commit pushes successfully and the remote is verified to hold it (see §10);
-- **where a change publishes to GitHub Pages, the rendered output — the live page — is checked, not only the repository's Markdown source (see §12).** Repository contents and rendered output can diverge: a build failure, a broken relative link, or a rendering error is invisible from repository contents alone.
+- **where a change publishes to GitHub Pages, the rendered output — the live page — is checked, not only the repository's Markdown source (see §12).** Repository contents and rendered output can diverge: a build failure, a broken relative link, or a rendering error is invisible from repository contents alone;
+- **where a Constitutional Intent changes Constitutional Research Programme state, the [Constitutional Programme Dashboard](../07-constitutional-methodology/constitutional-programme-dashboard.md) has been updated to reflect the outcome**, per decision [009](../04-decisions/009-mandatory-dashboard-completion-condition.md) — a required Completion Condition, not an optional courtesy.
 
 This QA pass is automatic and, on its own, does not constitute a Human Decision Point under §6 — it is part of routine execution, not a pause for judgement.
 
@@ -122,5 +123,6 @@ This pipeline is available to any project reaching external-distribution status;
 - Verify push completion against the remote.
 - Where a change publishes to GitHub Pages, verify the rendered output, not only the repository's Markdown source.
 - GitHub Pages renders a public repository's Markdown; it is a display layer, never a second source of truth.
+- Where a Constitutional Intent changes Constitutional Research Programme state, update the Constitutional Programme Dashboard as part of completing it, not only reviewing it at the start.
 - Produce one concise completion report at the end of every execution.
 - Record workflow improvements after every operational session.

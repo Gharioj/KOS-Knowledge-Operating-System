@@ -1,6 +1,25 @@
 # Changelog
 
-Structural changes to the Initiative Launch System. Content changes within projects are not logged here.
+Structural changes to the Initiative Lifecycle System. Content changes within projects are not logged here.
+
+## 4.1.0 — 2026-07-21
+Added `00-system/workflow-protocol-v0.4.md`, recording the publication pipeline demonstrated by Project 001's From Wildfires to Regeneration reaching public GitHub Pages distribution, and adding rendered-output verification to Automatic Quality Assurance. See decision [008](04-decisions/008-publication-pipeline-and-rendered-output-verification.md).
+
+- New `00-system/workflow-protocol-v0.4.md` — carries every Version 0.3 section forward unchanged in substance, adds a new §12 Publication Pipeline (Word → GitHub → Claude Code → Markdown → GitHub Pages), and adds a rendered-output-verification requirement to §9 Automatic Quality Assurance.
+- `00-system/workflow-protocol-v0.3.md` archived to `06-archive/00-system/workflow-protocol-v0.3.md`, per the preserve-don't-delete principle — not deleted, its content unchanged in substance.
+- `00-system/README.md` updated to reference the new document.
+- Root `WORKFLOW.md`'s Published stage updated to note that a project's public repository, where one exists, may render publication material via GitHub Pages.
+- `02-knowledge/glossary.md` gains an entry for GitHub Pages.
+- This extends, and does not supersede, decision [001](04-decisions/001-two-repository-publication-strategy.md)'s Two-Repository Publication Strategy.
+
+## 4.0.0 — 2026-07-21
+Evolved from Initiative Launch System (ILS) to Initiative Lifecycle System (ILS), reflecting the system's demonstrated support for an initiative's complete lifecycle — design, development, governance, documentation, publication, collaboration, maintenance and continuous improvement — rather than only its initial launch. See decision [007](04-decisions/007-evolve-to-initiative-lifecycle-system.md).
+
+- All live references to "Initiative Launch System" updated to "Initiative Lifecycle System" across root standards and system documentation; the acronym ILS is unchanged. Historical records — decisions [001](04-decisions/001-two-repository-publication-strategy.md)–[006](04-decisions/006-operational-workflow-protocol-v0.3.md) and prior entries below — keep their original wording.
+- `README.md`'s opening definition updated to the canonical description: "a complete operating system for designing, developing, governing, documenting, publishing, collaborating on, maintaining and continuously improving initiatives."
+- `02-knowledge/glossary.md` updated: new entry for Initiative Lifecycle System (ILS); the prior Initiative Launch System (ILS) entry retained, marked as an interim, retired name, alongside the existing Knowledge Operating System (KOS) entry.
+- `00-system/AI-WORKFLOW.md`'s description of the constitutional operating model's scope broadened to name the full lifecycle explicitly.
+- The repository root folder name and GitHub remote name are unchanged, per the existing exception in [NAMING.md](NAMING.md).
 
 ## 3.4.0 — 2026-07-20
 Replaced `00-system/KOS_Workflow_Protocol_v0.2.md` with `00-system/workflow-protocol-v0.3.md`, adding a Prompt Completeness section and correcting the prior version's use of the retired "KOS" name. See decision [006](04-decisions/006-operational-workflow-protocol-v0.3.md).

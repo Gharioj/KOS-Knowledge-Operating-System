@@ -16,7 +16,7 @@ source:
 
 ## Purpose
 
-Entry point to the constitutional methodology — the evergreen body of thinking that defines how human capacities, functions, institutions, capacity, contribution, value and economics are understood and related within the Initiative Launch System. See decision [002](../04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md).
+Entry point to the constitutional methodology — the evergreen body of thinking that defines how human capacities, functions, institutions, capacity, contribution, value and economics are understood and related within the Initiative Lifecycle System. See decisions [002](../04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md) and [007](../04-decisions/007-evolve-to-initiative-lifecycle-system.md).
 
 **Start here:** the [Constitutional Programme Dashboard](constitutional-programme-dashboard.md) is the operational cockpit for this programme — reviewed before any Constitutional Intent begins, per decision [004](../04-decisions/004-constitutional-programme-dashboard-checkpoint.md).
 

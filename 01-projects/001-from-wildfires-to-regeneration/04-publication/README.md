@@ -1,6 +1,8 @@
 # Publication — Version 1.0
 
-Finished output for Project 001, From Wildfires to Regeneration. Authoritative masters are Microsoft Word (.docx). Filenames are kept exactly as delivered; naming will be standardised across the repository in a later pass, not for this set alone.
+Finished output for Project 001, From Wildfires to Regeneration. Authoritative masters are Microsoft Word (.docx), held in this folder as the single source of content. Filenames are kept exactly as delivered; naming will be standardised across the repository in a later pass, not for this set alone.
+
+Per decision [001](../../../04-decisions/001-two-repository-publication-strategy.md), this material is also distributed publicly via the project's own repository, `Gharioj/From-Wildfires-to-Regeneration`, converted to Markdown and rendered as a website through GitHub Pages, per the publication pipeline in [workflow-protocol-v0.4.md §12](../../../00-system/workflow-protocol-v0.4.md). The masters below remain authoritative; the public site is a rendered export, refreshed by re-running the conversion when a master changes.
 
 | Title | File | Status | Language | Version |
 |---|---|---|---|---|

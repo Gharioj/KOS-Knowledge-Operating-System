@@ -99,6 +99,7 @@ Full register: [Constitutional Analysis Method § Constitutional Questions Bank]
 | 2026-07-18 | Fifth participant analysis completed: Session Musicians & Sidemen — first test of the individual, project-by-project axis; CQ-1 reaches Accumulating Evidence; CQ-9 raised (compensation/recognition decoupling) |
 | 2026-07-18 | Sixth participant analysis completed: Booking Agents & Touring Agencies — all originally planned Phase 1 participant groups now analysed; Theme A cluster reaches four data points; CQ-4 exceeds resolution thresholds for the second analysis running |
 | 2026-07-18 | Seventh participant analysis completed: Streaming Platforms & DSPs — first infrastructure-native participant type; Human Capacity found displaced rather than absent; CQ-10 raised (automated execution of a Constitutional Function); all four Roadmap-recommended participant groups now complete |
+| 2026-07-21 | System evolved Initiative Launch System → Initiative Lifecycle System, reflecting demonstrated support for an initiative's complete lifecycle rather than only its launch; publication pipeline (Word → GitHub → Claude Code → Markdown → GitHub Pages) and rendered-output verification recorded in workflow-protocol-v0.4.md (decisions [007](../04-decisions/007-evolve-to-initiative-lifecycle-system.md) and [008](../04-decisions/008-publication-pipeline-and-rendered-output-verification.md)) |
 
 ## Relationships
 

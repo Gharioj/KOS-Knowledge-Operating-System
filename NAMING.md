@@ -16,4 +16,4 @@ Top-level folders use two-digit prefixes (`00`–`06`) to fix sort order. Number
 ISO 8601 (`YYYY-MM-DD`) everywhere.
 
 ## Exception
-The repository root folder name (`Knowledge Operating System`) predates this convention — and predates the system's rename to Initiative Launch System (ILS) — and is left as-is. See decision [002](04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md).
+The repository root folder name (`Knowledge Operating System`) predates this convention — and predates the system's evolution, first to Initiative Launch System, now to Initiative Lifecycle System (ILS) — and is left as-is. See decisions [002](04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md) and [007](04-decisions/007-evolve-to-initiative-lifecycle-system.md).

@@ -2,7 +2,7 @@
 
 *Version 2 — first-principles redesign. Supersedes the Version 1 draft (commit `b50717c`). Replaces the term "Constitutional Directive" with "Constitutional Intent": a directive specifies workflow; an intent specifies the desired constitutional outcome and leaves implementation to the AI ecosystem. Not yet implemented, not yet linked from other documents, not yet a decision. Awaiting approval.*
 
-This is not documentation of a process. It is Project Zero: the operating architecture through which every future initiative in the Initiative Launch System is researched, designed, built and recorded — so that human creative capacity is spent on discovery, reflection, judgment and decision, and on nothing else.
+This is not documentation of a process. It is Project Zero: the operating architecture through which every initiative in the Initiative Lifecycle System is designed, developed, governed, documented, published, collaborated on, maintained and continuously improved across its complete lifecycle — not only researched, designed, built and recorded at launch — so that human creative capacity is spent on discovery, reflection, judgment and decision, and on nothing else.
 
 ## Constitutional Objective
 

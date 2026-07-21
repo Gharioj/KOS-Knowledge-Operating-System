@@ -1,8 +1,10 @@
 # Glossary
 
-Shared terminology used across the Initiative Launch System. Alphabetical.
+Shared terminology used across the Initiative Lifecycle System. Alphabetical.
 
 | Term | Definition |
 |---|---|
-| Initiative Launch System (ILS) | Current name of this repository and its architecture, adopted 2026-07-18. See decision [002](../04-decisions/002-rename-to-initiative-launch-system-and-constitutional-methodology.md). |
-| Knowledge Operating System (KOS) | Former name of the Initiative Launch System (ILS), retired 2026-07-18. Preserved here for historical reference — see decision [001](../04-decisions/001-two-repository-publication-strategy.md) and the GitHub repository name `Gharioj/KOS-Knowledge-Operating-System`, which is unchanged. |
+| GitHub Pages | The public documentation layer: renders a public repository's Markdown as a browsable website. Not a second source of truth — the public repository's Markdown remains authoritative for what is displayed, and the private Initiative Lifecycle System repository's approved master remains authoritative for content. See decision [008](../04-decisions/008-publication-pipeline-and-rendered-output-verification.md) and [workflow-protocol-v0.4.md §12](../00-system/workflow-protocol-v0.4.md). |
+| Initiative Launch System (ILS) | Interim name of the Initiative Lifecycle System (ILS), used 2026-07-18 to 2026-07-21. Retired once the methodology's support for an initiative's complete lifecycle — not only its launch — was demonstrated in practice. See decision [007](../04-decisions/007-evolve-to-initiative-lifecycle-system.md). |
+| Initiative Lifecycle System (ILS) | Current name of this repository and its architecture, adopted 2026-07-21: a complete operating system for designing, developing, governing, documenting, publishing, collaborating on, maintaining and continuously improving initiatives. See decision [007](../04-decisions/007-evolve-to-initiative-lifecycle-system.md). |
+| Knowledge Operating System (KOS) | Original name of the Initiative Lifecycle System (ILS), retired 2026-07-18. Preserved here for historical reference — see decision [001](../04-decisions/001-two-repository-publication-strategy.md) and the GitHub repository name `Gharioj/KOS-Knowledge-Operating-System`, which is unchanged. |

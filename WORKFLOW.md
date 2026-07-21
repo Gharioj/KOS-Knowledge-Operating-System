@@ -4,7 +4,7 @@
 1. **Capture** — an idea or question is recorded, before any project folder exists.
 2. **Research** — supporting material is gathered, in a project's `01-research/` or shared [03-research/](03-research/README.md).
 3. **Draft** — written, in a project's `02-drafts/`. *Review* is a status within this stage, not a separate folder.
-4. **Published** — finished work moves to a project's `04-publication/`.
+4. **Published** — finished work moves to a project's `04-publication/`. Where a project has reached external-distribution status, its public repository (decision [001](04-decisions/001-two-repository-publication-strategy.md)) may render that material as a public website via GitHub Pages — see [00-system/workflow-protocol-v0.4.md §12](00-system/workflow-protocol-v0.4.md).
 5. **On-hold** — paused at any stage; resume by restoring the appropriate status.
 6. **Archived** — superseded or retired, moved to [06-archive/](06-archive/README.md), never deleted.
 

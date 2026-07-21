@@ -2,6 +2,15 @@
 
 Structural changes to the Initiative Lifecycle System. Content changes within projects are not logged here.
 
+## 4.3.0 — 2026-07-21
+Adopted the Single Origination Principle: a project's public repository never originates content — every file it holds must trace back to an approved master in this repository first. Reinforces decision [001](04-decisions/001-two-repository-publication-strategy.md) explicitly, following a methodology consistency audit that found public-repository content with no traceable private-repository master. See decision [010](04-decisions/010-single-origination-principle.md).
+
+- `00-system/workflow-protocol-v0.4.md` §12 (Publication Pipeline) amended to state the principle explicitly, including that content found in a public repository with no traceable master is a methodology inconsistency to be reported, not assumed correct.
+- `00-system/ai/CLAUDE.md`'s checklist gains an explicit instruction: never create or edit content directly in a project's public repository, even under a task locked to that repository.
+- `00-system/ai/PRINCIPLES.md`'s "One source of truth" principle extended with a cross-repository clause.
+- `02-knowledge/glossary.md`'s GitHub Pages entry extended to state the principle directly.
+- This audit and remediation touched only this repository; the From Wildfires to Regeneration repository and its public website were not modified.
+
 ## 4.2.0 — 2026-07-21
 Made updating the Constitutional Programme Dashboard a mandatory Completion Condition for any Constitutional Intent that changes Constitutional Research Programme state, resolving the question decision [004](04-decisions/004-constitutional-programme-dashboard-checkpoint.md) left open. See decision [009](04-decisions/009-mandatory-dashboard-completion-condition.md).
 

@@ -110,6 +110,8 @@ Demonstrated in practice by Project 001 (From Wildfires to Regeneration) reachin
 
 This pipeline is available to any project reaching external-distribution status; it is not mandatory where a project's public repository does not need a browsable website — decision 001 itself remains format-agnostic. Per §9 above, completing a task that runs this pipeline includes checking the rendered GitHub Pages output itself, not only the repository contents at either end.
 
+**Single Origination Principle** (decision [010](../04-decisions/010-single-origination-principle.md)): a project's public repository never originates content. Every file that appears there must trace back to an approved master committed to this repository first, through steps 1–5 above — never authored, edited, or added directly in the public repository itself. This applies without exception, including to work performed under a task explicitly locked to the public repository (§2, §7): that lock governs *where* changes may be made, not *whether* a public repository may originate its own content, which it may not. Content discovered in a public repository with no traceable master in this repository is not ordinary content — it is a methodology inconsistency, to be reported per §10 rather than assumed correct or left in place.
+
 ## Principles
 
 - GitHub is the authoritative source.
@@ -123,6 +125,7 @@ This pipeline is available to any project reaching external-distribution status;
 - Verify push completion against the remote.
 - Where a change publishes to GitHub Pages, verify the rendered output, not only the repository's Markdown source.
 - GitHub Pages renders a public repository's Markdown; it is a display layer, never a second source of truth.
+- A public repository never originates content; every file there must trace back to an approved master in this repository first — the Single Origination Principle.
 - Where a Constitutional Intent changes Constitutional Research Programme state, update the Constitutional Programme Dashboard as part of completing it, not only reviewing it at the start.
 - Produce one concise completion report at the end of every execution.
 - Record workflow improvements after every operational session.
